@@ -1,1 +1,0 @@
-When ttyS0 is waited on in a system call, Linux assumes that since this device is for receiving telephone calls, it will put a process to sleep— figuring that so long as DCD is low, there is nothing to do.

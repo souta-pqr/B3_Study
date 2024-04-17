@@ -1,0 +1,1 @@
+(Normally, 5 bit times, but 7 bit times immediately after a successful transmission to facilitate fair sharing of the bus, and 3 bit times between a failed transmission and its retransmission.)

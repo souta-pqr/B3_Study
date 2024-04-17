@@ -1,0 +1,1 @@
+<pad> <extra_id_0> English was born in Spanish. he was born in Spanish.</s>

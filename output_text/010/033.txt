@@ -1,0 +1,1 @@
+A device obtains an address by attempting to ping it.

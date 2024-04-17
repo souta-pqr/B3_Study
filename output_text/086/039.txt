@@ -1,1 +1,0 @@
-Nevertheless, there is a control mode flag called CLOCAL which is what actually activates or deactivates this behavior, and by default, the flag is set for cua0 but not for ttyS0.

@@ -1,60 +1,15 @@
-Essex Thameside is a railway contract, and former franchise, for the provision of passenger services on the London, Tilbury and Southend line in east London and south Essex. It was formed on 26 May 1996, following the privatisation of British Rail and the franchise was originally called London, Tilbury and Southend. The only train operating company on the line to date has been c2c. Following a number of temporary extensions caused by problems with the rail franchising system, c2c was awarded a new 15-year franchise which commenced on 9 November 2014.
-As part of an abandoned round of re-franchising, bids were received from the shortlisted parties in September 2012 with a winner expected to be announced in January 2013. In October 2012 the government announced the refranchising process would be put on hold, pending a review of the franchising system and the failures of the InterCity West Coast franchising process. In January 2013 the government announced a revised invitation to tender would be issued in summer 2013 with an interim contract for up to two years to be negotiated with National Express. In March 2013 the Secretary of State for Transport announced the franchise would again be extended until 13 September 2014. A further extension of up to eight weeks became necessary following a delay in awarding the franchise. In June 2014 c2c were awarded a new franchise to commence in November 2014.In February 2017 National Express sold c2c to Trenitalia.
+In computing, deterministic memory is computer memory which contains values that can be depended on from access to access. The term is also used in conjunction with  achieving real-time functionality, especially in conjunction with embedded processor applications.
 
 
-== History ==
-
-
-=== Background ===
-Passenger services on the London, Tilbury and Southend line were part of the Network SouthEast sector of British Rail. 1 April 1994 Network SouthEast was broken up into train operating units. One of these was LTS Rail, providing all regular services, and management of 25 stations, from Fenchurch Street along the London, Tilbury and Southend line to Shoeburyness, including a loop line via Rainham and a branch line via Ockendon. LTS Rail was incorporated on 9 June 1994 as a subsidiary of the British Railways Board and acted as a 'shadow franchise' ahead of being offered to private operators.
-
-
-=== Initial franchise ===
-The initial London, Tilbury and Southend franchise was one of eight to be announced on 14 December 1994. The invitation to tender was issued on 17 May 1995.  On 11 September 1995 the shortlisted bidders Enterprise Rail (management buyout), Stagecoach, Prism Rail and GB Railways were notified. The franchise was awarded to Enterprise Rail on 20 December 1995. On 3 February 1996 the franchise was withdrawn from Enterprise Rail, pending an inquiry into allegations of ticketing and settlement irregularities. On 8 February 1996 the other shortlisted bidders were invited to re-tender.On 9 May 1996 the franchise was awarded to Prism Rail by the Director of Passenger Rail Franchising for 15 years with an average annual subsidy of £18.4 million. LTS Rail commenced operating on 26 May 1996.
-
-
-=== 1998 renegotiated franchise ===
-Due to unexpected passenger growth, the franchise was renegotiated in 1998 to provide:
-Slam door rolling stock replaced by Class 357s and the fleet to increase by at least twelve vehicles by March 2002
-Increased staffing of stations, real-time passenger information system, and improved security measures including Secure Stations Scheme accreditation
-Improved station facilities for disabled people and increased cycle storage
-Pedestrian access from Chafford Hundred railway station to Lakeside Shopping CentreAn additional stop under the management of London Underground was opened on the route at West Ham in 1999. In July 2000 Prism Rail was purchased by National Express. In 2002 responsibility for managing the main terminal station at Fenchurch Street transferred from the franchisee to Network Rail and in July that year the train operator was rebranded c2c.
-
-
-=== Abandoned 2011 renewal and extension to 2013 ===
-The franchise, now renamed Essex Thameside, was due to be renewed on 29 May 2011 and the consultation process began in 2009. However following the 2010 United Kingdom General Election there was a change of government and the franchise renewal process was delayed so it could be reviewed. On 23 December 2010 the Department for Transport granted National Express an extension until 26 May 2013.
-
-
-=== Abandoned 2013 renewal and extension to 2014 ===
-On 29 March 2012 the Department for Transport announced that Abellio, First, MTR and National Express had been shortlisted for the Essex Thameside franchise. On 2 July 2012 the Department for Transport issued the invitation to tender to the shortlisted bidders for a new 15 year franchise. The bids were submitted on 27 September and the successful bidder was expected to be announced in January 2013, but in October 2012 the government halted all ongoing franchise competitions to allow reviews to take place into the franchising process, following the failed InterCity West Coast renewal.The invitation to tender asked for proposals to deliver the following optional schemes:
-
-Barking station redevelopment
-Increased service frequency and extended hours on the route between Grays and London via Dagenham Dock
-Start of passenger services at a new Beam Park railway station between Dagenham Dock and RainhamIn January 2013 the government announced a revised invitation to tender would be issued in summer 2013 with an interim contract for up to two years to be negotiated with National Express. In March 2013 the Secretary of State for Transport announced the franchise would again be extended until 13 September 2014.
-
-
-=== 2014 renewal ===
-In September 2013 a revised invitation to tender was issued, with the winner was due to be announced in May 2014 and the new franchise due to start in September 2014.The minimum train service requirement for the franchise for 07:00-21:59 Monday to Friday and 09:00-19:59 on Saturday is as follows:
-8 trains per hour at Fenchurch Street, West Ham and Barking
-6 trains per hour at Limehouse
-4 trains per hour at Upminster, Grays, Laindon, Basildon, Pitsea, Benfleet, Leigh, Chalkwell, Westcliff, Southend Central
-3 trains per hour at Southend East, Thorpe Bay, Shoeburyness
-2 trains per hour at Dagenham Dock, Rainham, Purfleet, West Horndon, Ockendon, Chafford HundredThe train service requirement is met if a service calls at Stratford and Liverpool Street instead of Fenchurch Street and Limehouse.Responsibility for upkeep of stations is to be transferred from Network Rail to the train operator under the new franchise. The new operator will manage all stations on the route except Liverpool Street (to remain under Network Rail operation), Stratford and West Ham (both TfL). Fenchurch Street will transfer from Network Rail management to the new operator. The operator is required to implement ITSO-compliant smartcard tickets within five years.
-After a delay National Express was announced as the winner with the franchise running from 9 November 2014 until 2029. In February 2017 National Express sold the operating company c2c to Trenitalia.
-
-
-=== Emergency measures during the COVID-19 pandemic ===
-The franchise was effectively suspended on 1 April 2020 during the COVID-19 pandemic with an emergency measures agreement entered into to vary the terms of the franchise agreement. This was replaced on 20 September 2020 by an emergency recovery measures agreement. This temporary arrangement lasted until the legal replacement of the franchise agreement with a rail contract.
-
-
-=== 2021 rail contract ===
-The franchise became a rail contract from 19 July 2021, and the expiry date was brought forward from 2029 to 23 July 2023.
-
-
-== References ==
+== See also ==
+Embedded system
+Memory management
+Real-time computing
 
 
 == External links ==
-Essex Thameside: Invitation to tender (2011)
-Essex Thameside: Invitation to tender (2012)
-Essex Thameside: Invitation to tender (2013)
+Design Patterns for Real-Time Computer Music Systems
+Exploring memory architectures: pillars of processing performance
+Harnessing parallelism from video-processing DSPs
+Memory Management
+Persistency Made Easy Archived 2009-01-03 at the Wayback Machine

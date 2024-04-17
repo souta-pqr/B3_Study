@@ -1,1 +1,12 @@
-The only train operating company on the line to date has been c2c.
+== See also ==
+Embedded system
+Memory management
+Real-time computing
+
+
+== External links ==
+Design Patterns for Real-Time Computer Music Systems
+Exploring memory architectures: pillars of processing performance
+Harnessing parallelism from video-processing DSPs
+Memory Management
+Persistency Made Easy Archived 2009-01-03 at the Wayback Machine

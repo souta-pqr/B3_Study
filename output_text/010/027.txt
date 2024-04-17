@@ -1,0 +1,1 @@
+The first byte of each CEC frame is a header containing the 4-bit source and destination addresses.

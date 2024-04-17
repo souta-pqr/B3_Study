@@ -1,1 +1,1 @@
-It is possible to use a modem without the DCD signal, however the only way for the computer to know that a connection is disconnected is by the modem transmitting the words "NO CARRIER" over the data lines.
+Five teams from the North and three from the South would qualify for the playoffs.

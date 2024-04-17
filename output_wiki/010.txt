@@ -1,17 +1,76 @@
-Ohtlik lend (English: Dangerous Flight) is an Estonian television crime series. In the series, detective Andres (Marko Matvere) and his colleague Rita (Elisabet Reinsalu) solve crime cases. In the first series, the activities take place in Pärnu, and in the second session, in Tallinn.The series is directed by Ain Prosa.The series aired from 2006 until 2007 on Eesti Televisioon (ETV).
+Consumer Electronics Control (CEC) is a feature of HDMI designed to control HDMI connected devices by using only one remote controller; so, individual CEC enabled devices can command and control each other without user intervention, for up to 15 devices.: §CEC-3.1  For example, a TV remote can also control a digital video recorder and a Blu-ray player.
+It is a single-wire bidirectional serial bus that is based on the CENELEC standard AV.link protocol to perform remote control functions. CEC wiring is mandatory, although implementation of CEC in a product is optional.: §8.1  It was defined in HDMI Specification 1.0 and updated in HDMI 1.2, HDMI 1.2a and HDMI 1.3a (which added timer and audio commands to the bus).: §§CEC-1.2,CEC-1.3,CEC-3.1,CEC-5  USB-to-CEC adapters exist that allow a computer to control CEC-enabled devices.
 
 
-== Cast ==
-Marko Matvere as Detective Andres Västrik
-Elisabet Reinsalu	as Detective Rita Leidpalu
-Piret Kalda as  Katrin
-Jaan Rekkor as Rein
-Maria Klenskaja as Ella
-Üllar Saaremäe	as Toomas
-Leino Rei as Marek
-Karol Kuntsel as Rene
-Ursula Ratasepp as Kaja
-Argo Aadli	as Dan
+== Trade names for CEC technology ==
+Trade names for CEC include:
+
+
+== CEC commands ==
+The following is a list of the most commonly used HDMI-CEC commands:
+
+One Touch Play allows devices to switch the TV to use it as the active source when playback starts
+System Standby enables users to switch multiple devices to standby mode with the press of one button
+Preset Transfer transfers the tuner channel setup to another TV set
+One Touch Record allows users to record whatever is currently being shown on the HDTV screen on a selected recording device
+Timer Programming allows users to use the electronic program guides (EPGs) that are built into many HDTVs and set-top-boxes to program the timer in recording devices like PVRs and DVRs
+System Information checks all components for bus addresses and configuration
+Deck Control allows a component to interrogate and control the operation (play, pause, rewind etc.), of a playback component (Blu-ray or HD DVD player or a Camcorder, etc.)
+Tuner Control allows a component to control the tuner of another component
+OSD Display uses the on-screen display (OSD) of the TV set to display text
+Device Menu Control allows a component to control the menu system of another component by passing through the user interface (UI) commands
+Routing Control controls the switching of signal sources
+Remote Control Pass Through allows remote control commands to be passed through to other devices within the system
+Device OSD Name Transfer transfers the preferred device names to the TV set
+System Audio Control allows the volume of an AV receiver, integrated amplifier or preamplifier to be controlled using any remote control from a suitably equipped device(s) in the system
+
+
+== Protocol ==
+
+CEC is a separate electrical signal from the other HDMI signals. This allows a device to disable its high-speed HDMI circuitry in sleep mode, but be woken up by CEC. It is a single shared bus, which is directly connected between all HDMI ports on a device, so it can flow through a device which is completely powered off (not just asleep).
+The bus is electrically identical to the AV.link protocol, but CEC adds a detailed higher-level message protocol.
+The bus is an open-collector line, somewhat like I²C, passively pulled up to +3.3 V, and driven low to transmit a bit.
+Similarities to I²C include:
+
+Low-speed serial bus
+Open-collector with passive pull-up
+Speed limited by distributed capacitance
+Receiver can convert a transmitted 1 bit to a 0
+Multiple masters allowed via arbitration: sending a 1 bit and observing a 0 indicates loss
+Byte-oriented protocol
+Each byte has an acknowledge bit appended
+Special start signalDifferences from I²C:
+
+Single wire rather than two wires
+Bits sent with fixed timing rather than separate clock
+1000× lower speed (417 bit/s instead of 400 kbit/s)
+Four address bits rather than seven
+Defined protocol for dynamic address allocation
+Header includes both initiator and recipient address
+No special stop signal; instead, each byte has an end of message flag appended
+No "read" operations; all data bytes in a frame are sent from transmitter
+Instead, "get" requests solicit response frames
+Every device must be able to transmit
+Detailed specification of meaning of bytes after the addressEach bit begins with the line pulled low (falling edge), a delay indicating the bit value, a rising edge, and further delay until the start of the following bit.
+Normal data bits are 2.4±0.35 ms long. A logic 1 is held low for 0.6±0.2 ms, while a logic 0 is held low for 1.5±0.2 ms. The receiver samples the line at 1.05±0.2 ms after the falling edge, then begins watching for the following bit 1.9±0.15 ms after the falling edge.
+A receiver can convert a transmitted 1 bit to a 0 bit by pulling the line low within 0.35 ms of the falling edge, and holding it until the 0 bit time. The transmitter observes the bus during its own transmissions to detect this condition. This is used to acknowledge a transmission.
+Each frame begins with a special start bit, held low for 3.7±0.2 ms and then allowed to rise, for a total duration of 4.5±0.2 ms. Any device may send a start bit after observing the bus idle for a suitable number of bit times. (Normally, 5 bit times, but 7 bit times immediately after a successful transmission to facilitate fair sharing of the bus, and 3 bit times between a failed transmission and its retransmission.)
+This is followed by up to 16 bytes. Each byte consists of ten bits: eight data bits (transmitted msbit-first, in big-endian order), an "end of message" bit (set to 1 after the last byte of a frame), and an "acknowledge" bit.
+For single-recipient messages, the acknowledge bit operates similarly to I²C: it is transmitted as a 1 bit, and the receiver pulls it down to a 0 bit to acknowledge the byte.
+For broadcast messages, the acknowledge bit is inverted: it is still transmitted as a 1 bit, but is pulled down to a 0 bit by any receiver which rejects the byte.
+The first byte of each CEC frame is a header containing the 4-bit source and destination addresses. If the addressed destination exists, it acknowledges the byte. A frame consisting of nothing but the header is a ping which simply checks for the presence of another device.
+The address 15 (1111) is used for the broadcast address (as a destination) and unregistered devices (as a source) which have not yet chosen a different address. Some devices do not need to receive non-broadcast messages and so may use address 15 permanently, notably remote control receivers and HDMI switches. Devices which need to receive addressed messages need their own address. A device obtains an address by attempting to ping it. If the ping is unacknowledged, the device claims it. If the ping is acknowledged, the device tries another address.
+The second byte is an opcode which specifies the operation to be performed, and the number and meaning of following parameter bytes. For example, a user press on a remote control will generate a 3-byte frame: a header byte, a <User Control Pressed> opcode (0x44), and an operand byte identifying the button. Including the initial idle time and extra-long start bit, this takes 88.5 ms (37 bit times). A later <User Control Released> opcode (0x45) has no operands.
+
+
+== See also ==
+Consumer IR
+Media controls
 
 
 == References ==
+
+
+== External links ==
+"HDMI.org FAQ entry for CEC". Archived from the original on 2017-06-15.
+USB CEC adapter communication library

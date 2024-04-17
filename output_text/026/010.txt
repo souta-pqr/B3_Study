@@ -1,1 +1,0 @@
-The winner would be the player who either won the most chips on a set number of hands and who lost the least amount of chips if the seat had a negative expectation.

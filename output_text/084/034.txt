@@ -1,0 +1,6 @@
+== Motor unit types (vertebrate) ==
+Motor units are generally categorized based upon the similarities between several factors:
+
+PhysiologicalContraction speed in Isometric contractions
+Rate of rise of force
+Time to peak of a twitch contraction (response to a single nerve impulse)FF — Fast fatigable — high force, fast contraction speed but fatigue in a few seconds.

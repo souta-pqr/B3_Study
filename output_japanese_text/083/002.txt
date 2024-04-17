@@ -1,0 +1,1 @@
+<pad> <extra_id_0> : It is a stark, flat, arid, arid, arid, arid. It is: <extra_id_10> </s>

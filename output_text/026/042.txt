@@ -1,1 +1,0 @@
-The app will allow people to play duplicate poker (in the form of Match Poker) against players around the world on their personal devices.

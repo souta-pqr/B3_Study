@@ -1,2 +1,0 @@
-=== Limitations with ROI usage ===
-As a decision tool, it is simple to understand.

@@ -1,0 +1,1 @@
+Each frame begins with a special start bit, held low for 3.7±0.2 ms and then allowed to rise, for a total duration of 4.5±0.2 ms. Any device may send a start bit after observing the bus idle for a suitable number of bit times.

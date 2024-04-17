@@ -1,4 +1,0 @@
-Gnome Mk 660
-Used in the civilian Westland Wessex 60 helicopter variant of Wessex HC.2
-Coupled Gnome
-Twin engines driving through a common gearbox to a single output.

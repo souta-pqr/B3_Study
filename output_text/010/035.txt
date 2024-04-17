@@ -1,0 +1,1 @@
+If the ping is acknowledged, the device tries another address.

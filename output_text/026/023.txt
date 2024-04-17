@@ -1,1 +1,0 @@
-The number of tables would correspond to the number of players on each of the teams.

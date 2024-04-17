@@ -1,0 +1,1 @@
+The second byte is an opcode which specifies the operation to be performed, and the number and meaning of following parameter bytes.

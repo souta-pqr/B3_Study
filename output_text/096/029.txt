@@ -1,1 +1,0 @@
-There are also precomposed character encodings for ⟨D⟩ and ⟨d⟩ with diacritics, for most of those listed above; the remainder are produced using combining diacritics.

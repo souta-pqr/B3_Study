@@ -1,1 +1,0 @@
-The new operator will manage all stations on the route except Liverpool Street (to remain under Network Rail operation), Stratford and West Ham (both TfL).

@@ -1,1 +1,0 @@
-The operator is required to implement ITSO-compliant smartcard tickets within five years.

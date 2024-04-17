@@ -1,1 +1,0 @@
-In Cantonese: Because the lack of Unicode CJK support in early computer systems, many Hong Kongers and Singaporeans used the capitalized D to represent 啲 (lit.

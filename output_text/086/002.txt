@@ -1,1 +1,5 @@
-This signal is a simple "high/low" status bit that is sent from a data communications equipment (DCE) to a data terminal equipment (DTE), i.e., from the modem or other peripheral to a computer in a typical scenario.
+== CFL news in 1995 ==
+
+
+=== Expansion, relocation, folding and realignment ===
+Two more United States-based teams were admitted, the Birmingham Barracudas and the Memphis Mad Dogs.

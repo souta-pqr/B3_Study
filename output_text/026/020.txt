@@ -1,1 +1,0 @@
-The winner is the player who has accumulated the best total difference in chips vs. the players in the same seat at the other tables.

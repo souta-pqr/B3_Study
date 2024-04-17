@@ -1,1 +1,0 @@
-The engine was the first developed with a full authority analogue computer, de Havilland Propellers' own, as part of the fuel control system, specifically to anticipate helicopter power demand from pilot control inputs and to limit fuel flow during acceleration to prevent engine surge from occurring.

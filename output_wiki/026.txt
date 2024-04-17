@@ -1,32 +1,8 @@
-Duplicate poker is a variant of the card game poker. Duplicate poker is based on the principles of duplicate bridge, but it also incorporates some of the rules of pot limit and no limit Texas hold'em.
-While the game is more conducive to an automated online format because of pre-set decks and the scoring mechanic, duplicate poker has also been played in a live format.  The first duplicate poker tournament was held in April 2007 at the Cherokee Casino in Tulsa, Oklahoma.Duplicatepoker.com, the first poker room to use the format, closed down on October 5, 2008, citing the global financial crisis as the reason for the removal of services.
-
-
-== Duplicate poker versus standard poker ==
-Duplicate poker is a game in which there are two or more tables, each consisting of the same number of players.  Each table uses hands dealt from an identically sequenced deck of cards.  Each player holds the same hand as the person seated in identical seats at the other tables. Duplicate Poker was first devised by Californians Bruce Altshuler and Danny Kleinman who memorialized their concept in a lengthy article in Card Player Magazine in August of 1993. The article indicated that for Duplicate Poker to work in a multi-table format, each table had to have the same number of seats with no sit outs on any hand which could distort the final results. The winner would be the player who either won the most chips on a set number of hands and who lost the least amount of chips if the seat had a negative expectation. In theory, a player could win a duplicate poker tournament without winning many hands by avoiding big losses on hands that those holding the same cards at other tables play more recklessly. Under the original concept, Duplicate Poker was envisioned as a Limit game. A no limit or pot limit stake could only work at Duplicate Poker if the chips are re-set after every hand. A set number of hands are played in each round. In a multi-table tournament, the players can be assigned to different tables sitting at different seats after each round. Under Altshuler's and Kleinman's concept, a duplicate hold em team game could be held with a team of 4-9 members of each team each sitting at a different seat at a different table, and the team which ends up with the most chips would win.Duplicate poker can be played in Hold Em or Omaha where the final hands are fixed, but not in Stud, where a fold alters the order of the cards.
-The principal difference from playing standard poker is duplicate poker's measure of results, which are between players sitting at corresponding seats at other tables.  Player performance is measured relatively to other players sitting in their parallel seat. The object of duplicate poker is to win more chips than your opponents sitting in corresponding seats at other tables. The winner is the player who has accumulated the best total difference in chips vs. the players in the same seat at the other tables.  Conceivably, even a player who loses chips overall can win at the game if that player loses fewer chips than his opponents.
-Under the format originally devised by Altshuler and Kleinman in their Card Player article, the team game would consist of up to 8 members, each team player sitting at a different seat at each of the tables. The number of tables would correspond to the number of players on each of the teams. Determining the result of the duplicate team is simple. The team with the most chips at the end of the event is the winner. Again, a limit stake format was envisioned for the team concept.
-
-
-== SkillBet poker ==
-SkillBet.com launched in July 2012. In this version, two players, sitting at two identical tables, are dealt the same poker hand. They both play against the same five computer opponents. If one player wins $10 with a particular hand, but his opponent wins $15 with the same hand in the same situation, then he’s been outplayed to the tune of $5 for that hand and owes his opponent $5.
-
-
-== Duplicate Poker Nation's Cup ==
-In 2011, the International Federation of Poker (IFP) announced the "Duplicate Poker Nation's Cup." From around the world, 72 players made up 12 national teams played within the isolation of the London Eye pods, ensuring that no information could be shared between tables. Those national teams were USA, UK, France, Spain, Germany, Brazil, Denmark, Japan, Ireland, Holland, Australia, plus a team from Zynga.
-
-
-== Recognition as a sport - 'Match Poker' ==
-In April 2010, IFP secured provisional membership of the International Mind Sports Association (IMSA) at IMSA's annual congress in Dubai.In the years following the 2011 Duplicate Poker Nation's Cup, the IFP renamed their version of duplicate poker to 'Match Poker'. Their goal then became to "promote poker and its Match Poker™ variation as a skill game and a mind sport". Essentially the same game, the IFP describes Match Poker as "a team sport incorporating regular Texas Hold’em. Albeit typically with a pot-limit pre-flop and no-limit post-flop structure." This team game was conceptually similar to that which was described by Altshuler and Kleinman in their 1993 article in Card Player Magazine.
-On October 2, 2017, Match Poker gained recognition as a sport. It now holds Observer Status with the Global Association of International Sports Federations (GAISF). In response to this, the IFP changed its name to the IFMP, to recognise that they are now proponents of the specific version of duplicate poker they call Match Poker.International Match Poker championships have been run by the IFMP since 2011, with the sport gaining popularity most notably in India via the Match Indian Poker League, launched jointly by the IFMP and Viann Industries Ltd (Raj Kundra's company).Under the authority of the IFMP, a team in Australia is now developing a mobile application called MATCHPOKER Online. The app will allow people to play duplicate poker (in the form of Match Poker) against players around the world on their personal devices. The app is expected to launch in beta phase in late 2020.
-
-
-== AI Poker ==
-Duplicate poker has been used when testing the artificial intellegence poker programs Polaris (poker bot), Claudico and Libratus. These programs play heads-up Texas Hold'em. Each hand was played twice, with the AI getting each set of cards once, against a different human opponent.
+Sekolah Menengah Kebangsaan Kok Lanas (Kok Lanas government secondary school) is a coeducational day school located in Kampung Kok Lanas, Kota Bharu, Kelantan, Malaysia.Enrolment levels have increased over recent years from 1158 students in 2007 to 1260 in 2010 (644 boys and 616 girls). There are 78 teachers, giving a staff-student ratio of 16.
 
 
 == References ==
 
 
 == External links ==
-How to play Duplicate Poker Official Video from IFP
+SMK Kok Lanas school website

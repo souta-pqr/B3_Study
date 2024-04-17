@@ -1,0 +1,1 @@
+<pad> <extra_id_0> English was born in English, italy. he was born in italy. " <extra_id_10> </s>

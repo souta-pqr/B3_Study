@@ -1,1 +1,1 @@
-Other equipment (such as the console port of a router) may expect characters to be transmitted, but the DCD signal high is still a prerequisite for every communication.
+Prior to this, the league used the  Spalding J5V ball as their game ball.

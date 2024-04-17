@@ -1,0 +1,1 @@
+For broadcast messages, the acknowledge bit is inverted: it is still transmitted as a 1 bit, but is pulled down to a 0 bit by any receiver which rejects the byte.

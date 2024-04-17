@@ -1,2 +1,0 @@
-=== FeGe thin film ===
-FeGe films can be epitaxially grown on Si (111) using MBE.

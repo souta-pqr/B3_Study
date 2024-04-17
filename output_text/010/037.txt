@@ -1,0 +1,1 @@
+For example, a user press on a remote control will generate a 3-byte frame: a header byte, a <User Control Pressed> opcode (0x44), and an operand byte identifying the button.

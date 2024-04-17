@@ -1,1 +1,1 @@
-The signal is asserted at the same time the modem reports its CONNECT message, and stays asserted until the call is disconnected (either intentionally or because of a fault in the line).
+The new logo design was based on the "Jason and the Argonauts" premise featuring a side profile of a helmeted warrior facing one side and holding up a round shield with an "A" on it.

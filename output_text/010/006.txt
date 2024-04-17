@@ -1,0 +1,1 @@
+: §§CEC-1.2,CEC-1.3,CEC-3.1,CEC-5  USB-to-CEC adapters exist that allow a computer to control CEC-enabled devices.

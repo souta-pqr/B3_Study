@@ -1,1 +1,0 @@
-The bomb had an automatic "lock" that stopped the wheels spinning when it hit an obstacle such as the building, so that it would not roll backwards.

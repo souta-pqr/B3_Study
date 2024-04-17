@@ -1,1 +1,2 @@
-By default, when a modem is powered up, the DCD signal is deasserted.
+=== Uniform changes ===
+The Toronto Argonauts revealed an all-new logo and colour scheme.

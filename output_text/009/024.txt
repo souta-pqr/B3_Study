@@ -1,1 +1,0 @@
-One limitation associated with the traditional ROI calculation is that it does not fully "capture the short-term or long-term importance, value, or risks associated with natural and social capital", because it does not account for the environmental, social, and governance performance of an organization.

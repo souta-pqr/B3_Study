@@ -1,1 +1,0 @@
-Variant forms of the letter have unique code points for specialist use: the alphanumeric symbols set in mathematics and science, plosive sounds in linguistics, and halfwidth and fullwidth forms for legacy CJK font compatibility.

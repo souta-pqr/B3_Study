@@ -1,0 +1,1 @@
+A later <User Control Released> opcode (0x45) has no operands.

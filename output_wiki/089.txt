@@ -1,23 +1,18 @@
-Iron germanide (FeGe) is an intermetallic compound, a germanide of iron. At ambient conditions it crystallizes in three polymorphs with monoclinic, hexagonal and cubic structures. The cubic polymorph has no inversion center, it is therefore helical, with right-hand and left-handed chiralities.
+Rok Urbanc (born 28 February 1985) is a Slovenian former ski jumper. He won his first World Cup event in Zakopane in 2007.
 
 
-== Magnetism ==
-FeGe is extensively studied for its unusual magnetic properties. Electron spins in this material show dissimilar, yet regular spatial arrangements at different values of applied magnetic field. Those arrangements are named helical, skyrmion lattice, and conical. They can be controlled not only by temperature and magnetic field, but also by electric current, and the current density required for manipulating skyrmions (~106 A/m2) is approximately one million times smaller than that needed for moving magnetic domains in traditional ferromagnets. As a result, skyrmions have potential application in ultrahigh-density magnetic storage devices.The helical, conical and skyrmion structures are not unique to FeGe; they are also found in MnSi, MnGe and similar compounds, but contrary to those materials, the observation of magnetic ordering patterns in FeGe does not require cryogenic cooling. The disadvantage of FeGe over MnSi is its polymorphism, which hinders the growth of large homogeneous crystals.
+== World Cup ==
 
 
-== Synthesis ==
+=== Standings ===
 
 
-=== Polycrystalline FeGe ===
-Polycrystalline FeGe is produced by vacuum arc remelting, spark plasma sintering, or high-pressure high-temperature treatment of a mixture of elemental iron and germanium. Single crystals of FeGe ca. 1 mm in size can be grown from the powder using a chemical transport reaction and iodine as transporting agent. The source temperature is maintained at 450 °C and the temperature gradient at ca. 50 °C across the reaction tube, over 1–2 weeks.
-
-
-=== FeGe thin film ===
-FeGe films can be epitaxially grown on Si (111) using MBE. The thin film FeGe is polycrystalline with ± 30° in-plane rotations around [111] out-of-plane axis. Theoretical simulations indicate that FeGe thin film can hold skyrmion cylinder or chiral bobber phases, which were recently imaged in a 35 nm plan-view FeGe thin film using Lorentz STEM/TEM.
-
-
-== Structure ==
-Iron germanide is a non-stoichiometric compound where the Ge:Fe ratio often deviates from 1. The Fe2Ge3 compound is a Nowotny phase exhibiting a chimney ladder structure. It is a semiconductor with a band gap or 0.03 eV.
+=== Wins ===
 
 
 == References ==
+
+
+== External links ==
+
+Rok Urbanc at the International Ski and Snowboard Federation

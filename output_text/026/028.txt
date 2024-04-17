@@ -1,1 +1,0 @@
-In this version, two players, sitting at two identical tables, are dealt the same poker hand.

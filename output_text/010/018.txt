@@ -1,0 +1,1 @@
+A receiver can convert a transmitted 1 bit to a 0 bit by pulling the line low within 0.35 ms of the falling edge, and holding it until the 0 bit time.

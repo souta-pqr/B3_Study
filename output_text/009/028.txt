@@ -1,2 +1,0 @@
-The most comprehensive formula is:
-Return on investment (%) = (current value of investment if not exited yet or sold price of investment if exited + income from investment − initial investment and other expenses) / initial investment and other expenses x 100%.

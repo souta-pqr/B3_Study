@@ -1,1 +1,1 @@
-A null modem typically connects the DTR output of each computer to both the DCD and DSR inputs of the other.
+The Ottawa Rough Riders reverted their team colour of light navy to black.

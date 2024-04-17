@@ -1,0 +1,1 @@
+It is a single shared bus, which is directly connected between all HDMI ports on a device, so it can flow through a device which is completely powered off (not just asleep).

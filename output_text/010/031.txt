@@ -1,0 +1,1 @@
+Some devices do not need to receive non-broadcast messages and so may use address 15 permanently, notably remote control receivers and HDMI switches.

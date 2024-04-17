@@ -1,0 +1,1 @@
+<pad> <extra_id_0> English is a neighborhood in Mampa, Mampa, Mampa. Mampa <extra_id_10> <extra_id_24> </s>

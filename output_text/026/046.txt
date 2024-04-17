@@ -1,1 +1,0 @@
-Each hand was played twice, with the AI getting each set of cards once, against a different human opponent.

@@ -1,0 +1,1 @@
+Normal data bits are 2.4±0.35 ms long.

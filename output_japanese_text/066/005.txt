@@ -1,0 +1,1 @@
+<pad> <extra_id_0> English was built in 1946 by.......................... <extra_id_10> </s>

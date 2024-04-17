@@ -1,0 +1,1 @@
+<pad> <extra_id_0> A receiver can convert a 0 bit to a 0 bit by pulling the line low.</s>

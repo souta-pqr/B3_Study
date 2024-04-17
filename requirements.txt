@@ -2,5 +2,6 @@ wikipedia
 nltk
 transformers
 sentencepiece
+torch
 pysbd
 tqdm

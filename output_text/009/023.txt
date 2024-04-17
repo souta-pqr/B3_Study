@@ -1,1 +1,0 @@
-Similar to discounted cash flow, a Discounted ROI should be used instead.

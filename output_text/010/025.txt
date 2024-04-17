@@ -1,0 +1,1 @@
+For single-recipient messages, the acknowledge bit operates similarly to I²C: it is transmitted as a 1 bit, and the receiver pulls it down to a 0 bit to acknowledge the byte.

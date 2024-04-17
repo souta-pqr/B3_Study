@@ -1,0 +1,12 @@
+Tuner Control allows a component to control the tuner of another component
+OSD Display uses the on-screen display (OSD) of the TV set to display text
+Device Menu Control allows a component to control the menu system of another component by passing through the user interface (UI) commands
+Routing Control controls the switching of signal sources
+Remote Control Pass Through allows remote control commands to be passed through to other devices within the system
+Device OSD Name Transfer transfers the preferred device names to the TV set
+System Audio Control allows the volume of an AV receiver, integrated amplifier or preamplifier to be controlled using any remote control from a suitably equipped device(s) in the system
+
+
+== Protocol ==
+
+CEC is a separate electrical signal from the other HDMI signals.

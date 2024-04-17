@@ -1,1 +1,0 @@
-The system developed relieved the helicopter pilot of the need to control rotor speed directly; it delivered constant rotor speed under varying rotor load.

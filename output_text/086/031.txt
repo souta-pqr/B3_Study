@@ -1,3 +1,2 @@
-== PPS (Pulse per second) timing use ==
-The serial DCD pin can be used to accurately detect a PPS signal, as described in RFC 2783:
-One convenient means to provide a PPS signal to a computer system is to connect that signal to a modem-control pin on a serial-line interface to the computer.
+=== The Grey Cup ===
+The city of Regina played host to the Grey Cup game for the first time.

@@ -1,1 +1,1 @@
-DCD is deasserted once the local modem is no longer receiving carrier from the remote modem, regardless of which side initiated the disconnect.
+The Birmingham Barracudas released the design of their logo and uniforms prior to the season.

@@ -1,120 +1,65 @@
-R, or r, is the eighteenth letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is ar (pronounced ), plural ars, or in Ireland or .The letter ⟨r⟩ is the eighth most common letter in English and the fourth-most common consonant, after ⟨t⟩, ⟨n⟩, and ⟨s⟩.
+A boom or a chain (also boom defence, harbour chain, river chain, chain boom, boom chain or variants) is an obstacle strung across a navigable stretch of water to control or block navigation.
+In modern times they usually have civil uses, such as to prevent access to a dangerous river channel. But, especially historically, they have been used militarily, with the goal of denying access to an enemy's ships: a modern example is the anti-submarine net.
+Booms have also been used to force passing vessels to pay a toll.
 
 
-== Name ==
-The name of the letter in Latin was er (/ɛr/), following the pattern of other letters representing continuants, such as ⟨F⟩, ⟨L⟩, ⟨M⟩, ⟨N⟩, and ⟨S⟩.  This name is preserved in French and many other languages. In Middle English, the name of the letter changed from /ɛr/ to /ar/, following a pattern exhibited in many other words such as farm (compare French ferme) and star (compare German Stern).
-In Hiberno-English, the letter is called /ɒr/ or /ɔːr/, somewhat similar to oar, ore, orr.
-The letter R is sometimes referred to as the littera canīna 'canine letter', often rendered in English as the dog's letter. This Latin term referred to the Latin ⟨R⟩ that was trilled to sound like a growling dog, a spoken style referred to as vōx canīna 'dog voice' (e.g. in Spanish perro 'dog').In Romeo and Juliet, such a reference is made by Juliet's nurse in Act 2, scene 4, when she calls the letter R "the dog's name". The reference is also found in Ben Jonson's English Grammar.
+== Description ==
+A boom generally floats on the surface, while a chain can be on the surface or below the water. A chain could be made to float with rafts, logs, ships or other wood, making the chain a boom as well.
 
 
-== History ==
+== Historical uses ==
+Especially in medieval times, the end of a chain could be attached to a chain tower or boom tower. This allowed safe raising or lowering of the chain, as they were often heavily fortified. By raising or lowering a chain or boom, access could be selectively granted rather than simply rendering the stretch of water completely inaccessible. The raising and lowering could be accomplished by a windlass mechanism or a capstan.Booms or chains could be broken by a sufficiently large or heavy ship, and this occurred on many occasions, including the siege of Damietta, the raid on the Medway and the Battle of Vigo Bay.A Frequently, however, attackers instead seized the defences and cut the chain or boom by more conventional methods. The boom at the siege of Derry, for example, was cut by sailors in a longboat.
+As a key portion of defences, booms were usually heavily defended. This involved shore-based chain towers, artillery batteries, or forts. In the Age of Sail, a boom protecting a harbour could have several ships defending it with their broadsides, discouraging assaults on the boom. On some occasions, multiple booms spanned a single stretch of water.
 
 
-=== Antiquity ===
-The letter ⟨R⟩ is believed to derive ultimately from an image of a head, used in Semitic alphabets for the sound /r/ because the word for 'head' was rêš or similar in most Semitic languages.  The word became the name of the letter, as an example of acrophony.
-It developed into Greek ⟨Ρ⟩ ῥῶ (rhô) and Latin ⟨R⟩. The descending diagonal stroke develops as a graphic variant in some Western Greek alphabets (writing rho as ), but it was not adopted in most Old Italic alphabets; most Old Italic alphabets show variants of their rho between a ⟨P⟩ and a ⟨D⟩ shape, but without the Western Greek descending stroke.
-Indeed, the oldest known forms of the Latin alphabet itself of the 7th to 6th centuries BC, in the Duenos and the Forum inscription, still write ⟨r⟩ using the ⟨P⟩ shape of the letter.
-The Lapis Satricanus inscription shows the form of the Latin alphabet around 500 BC. Here, the rounded, closing Π shape of the ⟨p⟩  and the ⟨Ρ⟩ shape of the ⟨r⟩ have become difficult to distinguish.
-The descending stroke of the Latin letter ⟨R⟩ has fully developed by the 3rd century BC, as seen in the Tomb of the Scipios sarcophagus inscriptions of that era. From c. 50 AD, the letter ⟨P⟩ would be written with its loop fully closed, assuming the shape formerly taken by ⟨R⟩.
+== Gallery ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
 
 
-=== Cursive ===
-The minuscule form ⟨r⟩ developed through several variations on the capital form.
-Along with Latin minuscule writing in general, it developed  ultimately from Roman cursive via the uncial script of Late Antiquity into the Carolingian minuscule of the 9th century.
-In handwriting, it was common not to close the bottom of the loop but continue into the leg, saving an extra pen stroke. The loop-leg stroke shortened into the simple arc used in the Carolingian minuscule and until today.
-A calligraphic minuscule ⟨r⟩, known as r rotunda ⟨ꝛ⟩, was used in the sequence ⟨or⟩, bending the shape of the ⟨r⟩ to accommodate the bulge of the ⟨o⟩ as in ⟨oꝛ⟩, as opposed to ⟨or⟩. Later, the same variant was also used where ⟨r⟩ followed other lower case letters with a rounded loop towards the right, such as with ⟨b⟩, ⟨h⟩, ⟨p⟩, as well as to write the geminate ⟨rr⟩ as ⟨ꝛꝛ⟩. Use of r rotunda was mostly tied to blackletter typefaces, and the glyph fell out of use along with blackletter fonts in English language contexts mostly by the 18th century.
-Insular script used a minuscule which retained two downward strokes, but which did not close the loop, known as the Insular r ⟨ꞃ⟩; this variant survives in the Gaelic type popular in Ireland until the mid-20th century, but has become largely limited to a decorative function.
+== Examples ==
 
 
-== Use in writing systems ==
-
-
-=== English ===
-
-⟨R⟩ represents a rhotic consonant in English, such as the alveolar approximant (most varieties), alveolar trill (some British varieties), or the retroflex approximant (some varieties in the United States, South West England, and Dublin).
-In non-rhotic accents, it is not pronounced in certain positions, but can affect the pronunciation of the vowel that precedes it.
-
-
-=== Other languages ===
-⟨R⟩ represents a rhotic consonant in many languages, as shown in the table below.
-
-Other languages may use the letter ⟨r⟩ in their alphabets (or Latin transliterations schemes) to represent rhotic consonants different from the alveolar trill. In Haitian Creole, it represents a sound so weak that it is often written interchangeably with ⟨w⟩, e.g. 'Kweyol' for 'Kreyol'.
-Brazilian Portuguese has a great number of allophones of /ʁ/ such as [χ], [h], [ɦ], [x], [ɣ], [ɹ] and [r], the latter three ones can be used only in certain contexts ([ɣ] and [r] as ⟨rr⟩; [ɹ] in the syllable coda, as an allophone of /ɾ/ according to the European Portuguese norm and /ʁ/ according to the Brazilian Portuguese norm). Usually at least two of them are present in a single dialect, such as Rio de Janeiro's [ʁ], [χ], [ɦ] and, for a few speakers, [ɣ].
-
-
-=== Other systems ===
-The International Phonetic Alphabet uses several variations of the letter to represent the different rhotic consonants; ⟨r⟩ represents the alveolar trill.
-
-
-== Other uses ==
-
-An R rating denotes media such as movies that are intended for a restricted audience.
-
-
-== Related characters ==
-
-
-=== Descendants and related characters in the Latin alphabet ===
-R with diacritics: Ŕ ŕ Ɍ ɍ Ř ř Ŗ ŗ Ṙ ṙ Ȑ ȑ Ȓ ȓ Ṛ ṛ Ṝ ṝ Ṟ ṟ Ꞧ ꞧ Ɽ ɽ R̃ r̃ ᵲ ꭨ ᵳ ᶉ
-International Phonetic Alphabet-specific symbols related to R: 𝼈 ɹ ɺ ɾ ɻ ɽ ʀ ʁ ʶ ˞ ʴ
-IPA superscript letters: 𐞦 𐞧 𐞨 𐞩 𐞪
-Obsolete and nonstandard symbols in the International Phonetic Alphabet: ɼ ɿ
-Uralic Phonetic Alphabet-specific symbols related to R:U+1D19 ᴙ LATIN LETTER SMALL CAPITAL REVERSED R
-U+1D1A ᴚ LATIN LETTER SMALL CAPITAL TURNED R
-U+1D3F ᴿ MODIFIER LETTER CAPITAL R
-U+1D63 ᵣ LATIN SUBSCRIPT SMALL LETTER R
-Teuthonista phonetic transcription-specific symbols related to R:U+AB45 ꭅ LATIN SMALL LETTER STIRRUP R
-U+AB46 ꭆ LATIN LETTER SMALL CAPITAL R WITH RIGHT LEG
-Anthropos phonetic transcription:U+AB48 ꭈ LATIN SMALL LETTER DOUBLE R
-U+AB49 ꭉ LATIN SMALL LETTER R WITH CROSSED-TAIL
-U+AB4A ꭊ LATIN SMALL LETTER DOUBLE R WITH CROSSED-TAIL
-Otto Bremer's phonetic transcription:U+AB47 ꭇ LATIN SMALL LETTER R WITHOUT HANDLE
-U+AB4B ꭋ LATIN SMALL LETTER SCRIPT R
-U+AB4C ꭌ LATIN SMALL LETTER SCRIPT R WITH RING
-𝼨 – ⟨R⟩ with mid-height left hook was used by the British and Foreign Bible Society in the early 20th century for romanization of the Malayalam language.
-ⱹ – A turned ⟨r⟩ with a tail is used in the Swedish Dialect Alphabet
-Other variations of R used for phonetic transcription: 𝼕 𝼖 ʳ ʵ
-
-
-=== Calligraphic variants in the Latin alphabet ===
-Ꝛ ꝛ – R rotunda
-Ꞃ ꞃ – Insular r (Gaelic type)
-ᫍ  – Combining Insular r, as used in the Ormulum
-
-
-=== Ancestors and siblings in other alphabets ===
-𐤓  – Semitic letter Resh, from which the following letters derive
-Ρ ρ – Greek letter Rho, from which the following letters derive
-𐌓 – Old Italic letter R, the ancestor of modern Latin ⟨R⟩
-ᚱ – Runic letter Raido
-Р р – Cyrillic letter Er
-𐍂 – Gothic letter Reda
-
-
-=== Abbreviations, signs and symbols ===
-℟ – symbol for response in liturgy
-℞ – Medical prescription
-® – Registered trademark symbol
-₹ – Indian rupee sign
-
-
-== Other representations ==
-
-
-=== Computing ===
-
-
-=== Other ===
+=== Historical ===
+The entrance to the Cothon at Carthage was protected by a chain.
+The chain at Fort Blockhouse, protecting Portsmouth Harbour from 1431 to 1539.
+The Leonine Wall included a chain blocking the Tiber
+A chain spanned the Golden Horn
+A chain and boom blocked the River Medway during the Raid on the Medway
+Hudson River Chain
+The chain blocking the Parana River during the Battle of Vuelta de Obligado
+A chain was placed from Columbus, Kentucky across the Mississippi River to Missouri in order to block Union ships during the American Civil War
+Between the A Palma Castle in Mugardos and Saint Philip Castle, in ria of Ferrol, to defend the city and naval base.
 
 
 == See also ==
-Guttural R
+
+Anti-submarine net
+Boom defence vessel - a vessel charged with laying anti-submarine nets
+Log boom - a boom for collecting logs
+Boom (containment) - a boom for containing oil spills
+
+
+== Notes ==
+A.^  Some sources have the chain being dismantled instead of broken by a ship in the siege of Damietta and in the raid on the Medway.
 
 
 == References ==
-
-
-== External links ==
- Media related to R at Wikimedia Commons
- The dictionary definition of R at Wiktionary
- The dictionary definition of r at Wiktionary

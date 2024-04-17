@@ -1,0 +1,1 @@
+If the ping is unacknowledged, the device claims it.
