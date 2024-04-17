@@ -1,0 +1,1 @@
+The meaning of DCD differs when the modem is in fax or voice modes.

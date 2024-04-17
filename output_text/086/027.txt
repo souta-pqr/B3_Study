@@ -1,0 +1,1 @@
+For example, on Windows PCs, the DTR output is kept low until some program is run to access the serial port and raise the DTR signal high.

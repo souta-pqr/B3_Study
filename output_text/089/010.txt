@@ -1,0 +1,5 @@
+== Synthesis ==
+
+
+=== Polycrystalline FeGe ===
+Polycrystalline FeGe is produced by vacuum arc remelting, spark plasma sintering, or high-pressure high-temperature treatment of a mixture of elemental iron and germanium.

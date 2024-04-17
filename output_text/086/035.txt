@@ -1,0 +1,2 @@
+== As used with other hardware ==
+In Linux, each serial port is referenced by two device names - one being (for the first serial port) /dev/ttyS0 versus /dev/cua0.

@@ -1,0 +1,11 @@
+investment = stock + market outstanding + claims.or
+
+return on investment = (gain from investment − cost of investment) / cost of investmentor
+
+return on investment = (revenue − cost of goods sold) / cost of goods soldor
+
+return on investment = (net program benefits / program costs) x 100 
+
+
+=== Property ===
+Complications in calculating ROI can arise when real property is refinanced, or a second mortgage is taken out.

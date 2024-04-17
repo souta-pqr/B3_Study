@@ -1,0 +1,1 @@
+Virtually all newer modems allowing the behavior of the DCD signal to be configured.

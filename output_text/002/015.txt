@@ -1,0 +1,4 @@
+H.1400
+1,400 shp (1,000 kW) for the Westland Sea King HAS.1
+H.1400-1
+1,535 shp (1,145 kW), uprated from the 1400 by increasing the gas-generator speed and using improved blades that can operate at higher temperatures for the Westland Sea King HAS.2.

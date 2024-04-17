@@ -1,0 +1,1 @@
+The article indicated that for Duplicate Poker to work in a multi-table format, each table had to have the same number of seats with no sit outs on any hand which could distort the final results.

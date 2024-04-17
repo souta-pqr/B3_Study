@@ -1,0 +1,56 @@
+de Havilland Aircraft Museum
+The Helicopter Museum (Weston)
+Imperial War Museum Duxford
+London Science Museum
+South Yorkshire Aircraft MuseumUniversity of Aberdeen
+
+
+== Specifications (Gnome H1400-1) ==
+Data from Jane's All the World's Aircraft 1982-83
+
+
+==== General characteristics ====
+Type: Turboshaft
+Length: 1,392 mm (54.8 in)
+Diameter: 549 mm (21.6 in)
+Dry weight: 148 kg (326 lb) (ungeared)
+
+
+==== Components ====
+Compressor: Ten-stage axial flow, variable incidence inlet guide vanes and first three stages of stator
+Combustors: Annular
+Turbine: Two-stage compressor turbine, single-stage free power turbine
+
+
+==== Performance ====
+Maximum power output: 1,238 kW (1,660 shp) max contingency
+Overall pressure ratio: 8.4:1
+Air mass flow: 6.26 kg (13.8 lb)  per second
+Power-to-weight ratio: 5.1 shp/lb
+
+
+== See also ==
+
+Related development
+
+General Electric T58
+Comparable engines
+
+Klimov TV2-117
+Lycoming T53Related lists
+
+List of aircraft engines
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===
+
+
+== External links ==
+
+de Havilland engines

@@ -1,0 +1,1 @@
+If one player wins $10 with a particular hand, but his opponent wins $15 with the same hand in the same situation, then he’s been outplayed to the tune of $5 for that hand and owes his opponent $5.

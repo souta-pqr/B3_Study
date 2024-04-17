@@ -1,0 +1,1 @@
+Some equipment will recognize the transition alone as the beginning of a session.

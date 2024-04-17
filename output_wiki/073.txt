@@ -1,0 +1,86 @@
+B, or b, is the second letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is bee (pronounced ), plural bees.It represents the voiced bilabial stop in many languages, including English. In some other languages, it is used to represent other bilabial consonants.
+
+
+== History ==
+The Roman ⟨B⟩ derived from the Greek capital beta ⟨Β⟩ via its Etruscan and Cumaean variants. The Greek letter was an adaptation of the Phoenician letter bēt ⟨𐤁⟩. The Egyptian hieroglyph for the consonant /b/ had been an image of a foot and calf ⟨  ⟩, but bēt (Phoenician for "house") was a modified form of a Proto-Sinaitic glyph ⟨  ⟩ adapted from the separate hieroglyph Pr ⟨  ⟩ meaning "house". The Hebrew letter bet ⟨ב⟩ is a separate development of the Phoenician letter.By Byzantine times, the Greek letter ⟨Β⟩ came to be pronounced /v/, so that it is known in modern Greek as víta (still written βήτα). The Cyrillic letter ve ⟨В⟩ represents the same sound, so a modified form known as be ⟨Б⟩ was developed to represent the Slavic languages' /b/. (Modern Greek continues to lack a letter for the voiced bilabial plosive and transliterates such sounds from other languages using the digraph/consonant cluster ⟨μπ⟩, mp.)
+Old English was originally written in runes, whose equivalent letter was beorc ⟨ᛒ⟩, meaning "birch". Beorc dates to at least the 2nd-century Elder Futhark, which is now thought to have derived from the Old Italic alphabets' ⟨ 𐌁 ⟩ either directly or via Latin ⟨⟩.
+The uncial ⟨⟩ and half-uncial ⟨⟩ introduced by the Gregorian and Irish missions gradually developed into the Insular scripts' ⟨⟩. These Old English Latin alphabets supplanted the earlier runes, whose use was fully banned under King Canute in the early 11th century. The Norman Conquest popularised the Carolingian half-uncial forms which latter developed into blackletter ⟨  ⟩. Around 1300, letter case was increasingly distinguished, with upper- and lower-case B taking separate meanings. Following the advent of printing in the 15th century, Holy Roman Empire (Germany) and Scandinavia continued to use forms of blackletter (particularly Fraktur), while England eventually adopted the humanist and antiqua scripts developed in Renaissance Italy from a combination of Roman inscriptions and Carolingian texts. The present forms of the English cursive B were developed by the 17th century.
+
+
+== Use in writing systems ==
+
+
+=== English ===
+In English, ⟨b⟩ denotes the voiced bilabial stop /b/, as in bib. In English, it is sometimes silent. This occurs particularly in words ending in ⟨mb⟩, such as lamb and bomb, some of which originally had a /b/ sound, while some had the letter ⟨b⟩ added by analogy (see Phonological history of English consonant clusters). The ⟨b⟩ in debt, doubt, subtle, and related words was added in the 16th century as an etymological spelling, intended to make the words more like their Latin originals (debitum, dubito, subtilis).
+
+As /b/ is one of the sounds subject to Grimm's Law, words which have ⟨b⟩ in English and other Germanic languages may find their cognates in other Indo-European languages appearing with ⟨bh⟩, ⟨p⟩, ⟨f⟩ or ⟨φ⟩ instead. For example, compare the various cognates of the word brother. It is the seventh least frequently used letter in the English language (after V, K, J, X, Q, and Z), with a frequency of about 1.5% in words.
+
+
+=== Other languages ===
+Many other languages besides English use ⟨b⟩ to represent a voiced bilabial stop.
+In Estonian, Danish, Faroese, Icelandic, Scottish Gaelic and Mandarin Chinese Pinyin, ⟨b⟩ does not denote a voiced consonant. Instead, it represents a voiceless /p/ that contrasts with either a geminated /p:/ (in Estonian) or an aspirated /ph/ (in Danish, Faroese, Icelandic, Scottish Gaelic and Pinyin) represented by ⟨p⟩. In Fijian ⟨b⟩ represents a prenasalised /mb/, whereas in Zulu and Xhosa it represents an implosive /ɓ/, in contrast to the digraph ⟨bh⟩ which represents /b/. Finnish uses ⟨b⟩ only in loanwords.
+
+
+=== Other systems ===
+In the International Phonetic Alphabet, [b] is used to represent the voiced bilabial stop phone. In phonological transcription systems for specific languages, /b/ may be used to represent a lenis phoneme, not necessarily voiced, that contrasts with fortis /p/ (which may have greater aspiration, tenseness or duration).
+
+
+== Other uses ==
+
+In the base-16 numbering system, B is a number that corresponds to the number 11 in decimal (base 10) counting.
+B is a musical note. In English-speaking countries, it represents Si, the 12th note of a chromatic scale built on C. In Central Europe and Scandinavia, "B" is used to denote B-flat and the 12th note of the chromatic scale is denoted "H". Archaic forms of 'b', the b quadratum (square b, ♮) and b rotundum (round b, ♭) are used in musical notation as the symbols for natural and flat, respectively.
+In Contracted (grade 2) English braille, ⟨b⟩ stands for "but" when in isolation.
+In computer science, B is the symbol for byte, a unit of information storage.
+In engineering, B is the symbol for bel, a unit of level.
+In chemistry, B is the symbol for boron, a chemical element.
+
+
+== Related characters ==
+
+
+=== Ancestors, descendants and siblings ===
+𐤁 : Semitic letter Bet, from which the following symbols originally derive
+Β β : Greek letter Beta, from which B derives
+Ⲃ ⲃ Coptic letter Bēta, which derives from Greek Beta
+В в : Cyrillic letter Ve, which also derives from Beta
+Б б : Cyrillic letter Be, which also derives from Beta
+ʙ : A small capital B, used as the lowercase B in a number of alphabets during romanization
+𐌁 : Old Italic B, which derives from Greek Beta
+ᛒ : Runic letter Berkanan, which probably derives from Old Italic B
+𐌱 : Gothic letter bercna, which derives from Greek Beta
+IPA-specific symbols related to B: ɓ ʙ β 𐞄 𐞅
+B with diacritics: Ƀ ƀ Ḃ ḃ Ḅ ḅ Ḇ ḇ Ɓ ɓ ᵬ ᶀ
+Ꞗ ꞗ : B with flourish
+ᴃ ᴯ B b : Barred B and various modifier letters are used in the Uralic Phonetic Alphabet.
+Ƃ ƃ : B with topbar
+
+
+=== Derived ligatures, abbreviations, signs and symbols ===
+␢ : U+2422 ␢ BLANK SYMBOL
+฿ : Thai baht
+₿ : Bitcoin
+♭: The flat in music, mentioned above, still closely resembles lowercase b.
+
+
+== Other representations ==
+
+
+=== Computing ===
+The Latin letters ⟨B⟩ and ⟨b⟩ have Unicode encodings U+0042 B LATIN CAPITAL LETTER B and U+0062 b LATIN SMALL LETTER B. These are the same code points as were used in ASCII and ISO 8859. There are also precomposed character encodings for ⟨B⟩ and ⟨b⟩ with diacritics, for most of those listed above; the remainder are produced using combining diacritics.
+Variant forms of the letter have unique code points for specialist use: the alphanumeric symbols set in mathematics and science,  Latin beta in linguistics, and halfwidth and fullwidth forms for legacy CJK font compatibility. The Cyrillic and Greek homoglyphs of the Latin ⟨B⟩ have separate encodings U+0412 В CYRILLIC CAPITAL LETTER VE and U+0392 Β GREEK CAPITAL LETTER BETA.
+
+
+=== Other ===
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to B at Wikimedia Commons
+ The dictionary definition of B at Wiktionary
+ The dictionary definition of b at Wiktionary
+Giles, Peter (1911), "B" , Encyclopædia Britannica, vol. 3 (11th ed.), p. 87

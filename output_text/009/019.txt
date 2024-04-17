@@ -1,0 +1,1 @@
+The simplicity of the formula allows users to freely choose variables, e.g., length of the calculation time, whether overhead cost is included, or which factors are used to calculate income or cost components.

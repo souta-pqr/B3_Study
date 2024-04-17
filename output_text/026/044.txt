@@ -1,0 +1,2 @@
+== AI Poker ==
+Duplicate poker has been used when testing the artificial intellegence poker programs Polaris (poker bot), Claudico and Libratus.

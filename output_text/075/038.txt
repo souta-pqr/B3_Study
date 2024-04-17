@@ -1,0 +1,21 @@
+== Related characters ==
+
+
+=== Descendants and related characters in the Latin alphabet ===
+R with diacritics: Ŕ ŕ Ɍ ɍ Ř ř Ŗ ŗ Ṙ ṙ Ȑ ȑ Ȓ ȓ Ṛ ṛ Ṝ ṝ Ṟ ṟ Ꞧ ꞧ Ɽ ɽ R̃ r̃ ᵲ ꭨ ᵳ ᶉ
+International Phonetic Alphabet-specific symbols related to R: 𝼈 ɹ ɺ ɾ ɻ ɽ ʀ ʁ ʶ ˞ ʴ
+IPA superscript letters: 𐞦 𐞧 𐞨 𐞩 𐞪
+Obsolete and nonstandard symbols in the International Phonetic Alphabet: ɼ ɿ
+Uralic Phonetic Alphabet-specific symbols related to R:U+1D19 ᴙ LATIN LETTER SMALL CAPITAL REVERSED R
+U+1D1A ᴚ LATIN LETTER SMALL CAPITAL TURNED R
+U+1D3F ᴿ MODIFIER LETTER CAPITAL R
+U+1D63 ᵣ LATIN SUBSCRIPT SMALL LETTER R
+Teuthonista phonetic transcription-specific symbols related to R:U+AB45 ꭅ LATIN SMALL LETTER STIRRUP R
+U+AB46 ꭆ LATIN LETTER SMALL CAPITAL R WITH RIGHT LEG
+Anthropos phonetic transcription:U+AB48 ꭈ LATIN SMALL LETTER DOUBLE R
+U+AB49 ꭉ LATIN SMALL LETTER R WITH CROSSED-TAIL
+U+AB4A ꭊ LATIN SMALL LETTER DOUBLE R WITH CROSSED-TAIL
+Otto Bremer's phonetic transcription:U+AB47 ꭇ LATIN SMALL LETTER R WITHOUT HANDLE
+U+AB4B ꭋ LATIN SMALL LETTER SCRIPT R
+U+AB4C ꭌ LATIN SMALL LETTER SCRIPT R WITH RING
+𝼨 – ⟨R⟩ with mid-height left hook was used by the British and Foreign Bible Society in the early 20th century for romanization of the Malayalam language.

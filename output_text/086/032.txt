@@ -1,0 +1,1 @@
+The Data Carrier Detect (DCD) pin is frequently used for this purpose.

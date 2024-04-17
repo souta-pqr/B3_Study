@@ -1,0 +1,1 @@
+Much like the Ring Indicator signal, on a PC's serial port, changes to the DCD signal state can generate a hardware interrupt that can be captured by the processor any time the DCD signal changes state, preventing the PC from needing to constantly poll the pin.

@@ -1,0 +1,8 @@
+H.1600
+11-stage compressor with 2-stage free power turbine 1,600 hp (1,200 kW)
+P.1000
+Turboprop version of the H.1000
+P.1200
+Turboprop version of the H.1200
+P.1400-3
+Turboprop version of the H.1400-3 rated at 1,700 shp (1,300 kW).

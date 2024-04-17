@@ -1,0 +1,2 @@
+== As used with null modems ==
+Frequent use of a serial port is for a direct computer-to-computer connection.

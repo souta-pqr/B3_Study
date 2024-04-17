@@ -1,0 +1,1 @@
+When cua0 is used - as it is when placing telephone calls - Linux assumes that the software needs to access the port while DCD is low for the purpose of dialing the number, so this blocking behavior doesn't exist.

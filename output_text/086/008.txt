@@ -1,0 +1,2 @@
+== As used on modems ==
+DCD is very important on modems, as it is the computer's primary way to find out that the modem has lost its connection to the remote host.

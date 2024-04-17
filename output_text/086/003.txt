@@ -1,0 +1,1 @@
+It is present on virtually all PC serial ports - pin 1 of a nine-pin (DE9) serial port, or pin eight over a 25-pin (DB25) port.

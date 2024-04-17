@@ -1,0 +1,4 @@
+For a single-period review, divide the return (net profit) by the resources that were committed (investment):
+return on investment = Net income / Investment
+where:
+Net income = gross profit − expenses.

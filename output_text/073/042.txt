@@ -1,0 +1,5 @@
+== Other representations ==
+
+
+=== Computing ===
+The Latin letters ⟨B⟩ and ⟨b⟩ have Unicode encodings U+0042 B LATIN CAPITAL LETTER B and U+0062 b LATIN SMALL LETTER B.

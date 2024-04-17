@@ -1,0 +1,8 @@
+Ƃ ƃ : B with topbar
+
+
+=== Derived ligatures, abbreviations, signs and symbols ===
+␢ : U+2422 ␢ BLANK SYMBOL
+฿ : Thai baht
+₿ : Bitcoin
+♭: The flat in music, mentioned above, still closely resembles lowercase b.

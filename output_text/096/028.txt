@@ -1,0 +1,25 @@
+Ꝺ ꝺ : Insular D is used in various phonetic contexts
+
+
+=== Ancestors and siblings in other alphabets ===
+𐤃 : Semitic letter Dalet, from which the following symbols originally derive
+Δ δ : Greek letter Delta, from which the following symbols originally derive
+Ⲇ ⲇ : Coptic letter Delta
+Д д : Cyrillic letter De
+𐌃 : Old Italic D, the ancestor of modern Latin D
+ᛞ : Runic letter dagaz, which is possibly a descendant of Old Italic D
+ᚦ Runic letter thurisaz, another possible descendant of Old Italic D
+𐌳 : Gothic letter daaz, which derives from Greek Delta
+
+
+=== Derived signs, symbols and abbreviations ===
+₫ : Đồng sign
+ⅆ : Unicode symbol for d used as derivative symbol
+∂ : the partial derivative symbol, ∂{\displaystyle \partial }
+
+
+== Other representations ==
+
+
+=== Computing ===
+The Latin letters ⟨D⟩ and ⟨d⟩ have Unicode encodings U+0044 D LATIN CAPITAL LETTER D and U+0064 d LATIN SMALL LETTER D. These are the same code points as were used in ASCII and ISO 8859.

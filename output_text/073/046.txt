@@ -1,0 +1,1 @@
+The Cyrillic and Greek homoglyphs of the Latin ⟨B⟩ have separate encodings U+0412 В CYRILLIC CAPITAL LETTER VE and U+0392 Β GREEK CAPITAL LETTER BETA.

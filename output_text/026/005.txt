@@ -1,0 +1,2 @@
+== Duplicate poker versus standard poker ==
+Duplicate poker is a game in which there are two or more tables, each consisting of the same number of players.

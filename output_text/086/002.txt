@@ -1,0 +1,1 @@
+This signal is a simple "high/low" status bit that is sent from a data communications equipment (DCE) to a data terminal equipment (DTE), i.e., from the modem or other peripheral to a computer in a typical scenario.

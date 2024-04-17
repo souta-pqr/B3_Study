@@ -1,0 +1,1 @@
+This status light is directly coupled with what the modem is sending the DCD line.

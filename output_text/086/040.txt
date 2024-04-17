@@ -1,0 +1,1 @@
+An application that insists on using a "tty" port versus a "cua" port is an example of one that might require a jumper wire to force DCD high in order to work properly.

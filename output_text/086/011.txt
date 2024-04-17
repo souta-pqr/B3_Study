@@ -1,0 +1,1 @@
+Because the words "NO CARRIER" are also a message that could appear in the context of a normal data session (for example, if typed by a person on the remote end), there is no positive way for a computer program to differentiate the words being sent over the connection versus from the modem.

@@ -1,0 +1,1 @@
+By default, when a modem is powered up, the DCD signal is deasserted.

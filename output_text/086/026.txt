@@ -1,0 +1,1 @@
+When used in this scenario, DCD is used to simply detect the presence and/or readiness of the other side to start a session.

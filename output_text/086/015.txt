@@ -1,0 +1,1 @@
+It is not asserted until the modem either makes an outgoing call, or answers an incoming call, and then connects with a data modem on the other end.

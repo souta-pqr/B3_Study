@@ -1,0 +1,1 @@
+This requires an adapter called a null modem, which isn't actually a modem in the traditional sense, but rather a connector plug that simply crosses the complementary pins on two serial ports so the two sides can communicate.

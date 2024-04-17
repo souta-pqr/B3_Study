@@ -1,0 +1,1 @@
+Although these both refer to the same physical port, one important distinction between the way Linux treats these two device names has to do with the DCD line.

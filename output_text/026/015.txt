@@ -1,0 +1,1 @@
+In a multi-table tournament, the players can be assigned to different tables sitting at different seats after each round.

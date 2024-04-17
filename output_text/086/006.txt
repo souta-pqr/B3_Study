@@ -1,0 +1,1 @@
+On a data modem, the carrier's loss equates to the connection's termination.

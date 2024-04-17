@@ -1,0 +1,2 @@
+== Calculation ==
+Return on investment can be calculated in different ways depending on the goal and application.

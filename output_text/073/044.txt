@@ -1,0 +1,1 @@
+There are also precomposed character encodings for ⟨B⟩ and ⟨b⟩ with diacritics, for most of those listed above; the remainder are produced using combining diacritics.

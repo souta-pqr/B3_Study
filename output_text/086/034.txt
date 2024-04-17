@@ -1,0 +1,1 @@
+The computer detects a signal transition on the DCD pin, usually by receiving an interrupt and records a timestamp as soon as possible.

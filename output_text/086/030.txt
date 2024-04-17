@@ -1,0 +1,1 @@
+Other equipment (such as the console port of a router) may expect characters to be transmitted, but the DCD signal high is still a prerequisite for every communication.

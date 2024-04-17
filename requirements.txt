@@ -1,0 +1,4 @@
+wikipedia
+nltk
+transformers
+huggingface-hub

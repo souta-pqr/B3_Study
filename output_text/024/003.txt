@@ -1,0 +1,1 @@
+ASMOF has a federated state-based structure, with state branches playing a major role in its operation; the state-based structure of the union is largely a function of Australian states being primarily responsible for health care regulation and funding.

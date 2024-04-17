@@ -1,0 +1,1 @@
+Each table uses hands dealt from an identically sequenced deck of cards.

@@ -1,0 +1,1 @@
+External modems with LED status lights usually have a light labeled "CD" (carrier detect).

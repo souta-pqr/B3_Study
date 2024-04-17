@@ -1,0 +1,1 @@
+Typically, the time-code output of the time source is transmitted to the computer over the same serial line.

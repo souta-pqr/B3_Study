@@ -1,0 +1,5 @@
+== Variants ==
+H.1000
+(Mk.101) 1,050 shp (780 kW), first production version for use on later marks of Westland Whirlwind
+H.1200
+1,250 shp (930 kW), the Westland Wessex uses two H.1200, as the Coupled Gnome, with a coupled gearbox with a power limited to 1,550 shp (1,160 kW) at the rotor.

@@ -1,0 +1,2 @@
+== Design and development ==
+A two-stage turbine drives the 10 stage all-axial compressor, whilst a single-stage free power turbine drives the load.

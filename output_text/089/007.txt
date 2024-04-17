@@ -1,0 +1,1 @@
+They can be controlled not only by temperature and magnetic field, but also by electric current, and the current density required for manipulating skyrmions (~106 A/m2) is approximately one million times smaller than that needed for moving magnetic domains in traditional ferromagnets.
