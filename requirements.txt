@@ -1,4 +1,6 @@
 wikipedia
 nltk
 transformers
-huggingface-hub
+sentencepiece
+pysbd
+tqdm
