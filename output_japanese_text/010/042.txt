@@ -1,1 +1,1 @@
-U-S-S-S-D-F-W-S-F-W-W-S-M-W-W-W-W-W-W-M-W-M-W-M-
+USB CECアダプタ通信ライブラリ
