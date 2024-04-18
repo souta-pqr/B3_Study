@@ -1,1 +1,1 @@
-<pad> <extra_id_0> English English English English English English English English English <extra_id_10> </s>
+S-B-W-W-H-W-M-W-W-M-W-W-W-W-W-W-W-W-W-W-M
