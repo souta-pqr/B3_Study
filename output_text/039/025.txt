@@ -1,0 +1,1 @@
+This gave the figures' body parts a fully fluid range of motion, rather than only two positions.

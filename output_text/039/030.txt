@@ -1,0 +1,1 @@
+Because each individual cylinder requires its own control channel, the original Audio-Animatronic figures were relatively simple in design, to reduce the number of channels required.

@@ -1,1 +1,1 @@
-This allows a device to disable its high-speed HDMI circuitry in sleep mode, but be woken up by CEC.
+Fox, Lela Rochon and Larenz Tate).

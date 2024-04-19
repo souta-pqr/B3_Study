@@ -1,7 +1,7 @@
-wikipedia
-nltk
+git+https://github.com/espnet/espnet
+scipy
+parallel_wavegan
+pyopenjtalk
+git+https://github.com/espnet/espnet_model_zoo
 transformers
-sentencepiece
-torch
-pysbd
-tqdm
+wikipedia

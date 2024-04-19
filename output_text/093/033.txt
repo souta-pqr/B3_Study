@@ -1,0 +1,2 @@
+=== Zener and avalanche diodes ===
+Voltage breakdown diodes are often used as noise generators.

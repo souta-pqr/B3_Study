@@ -1,0 +1,1 @@
+Those new carriers can also generate more carriers in a subsequent collisions.

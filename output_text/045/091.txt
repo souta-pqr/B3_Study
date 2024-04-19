@@ -1,0 +1,3 @@
+=== Other proposals ===
+
+Network Rail plans to install European Rail Traffic Management System (ERTMS) in-cab signalling on the Great Western line; this is a pre-requisite for the Super Express trains to run at 140 mph (225 km/h).

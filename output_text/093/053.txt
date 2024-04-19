@@ -1,0 +1,1 @@
+291–292) describe a noise source using a Zener diode (and also suitable for an avalanche diode).

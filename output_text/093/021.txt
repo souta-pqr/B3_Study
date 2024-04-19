@@ -1,0 +1,1 @@
+Its noise voltage is determined by the shot noise of the amplifier's input transistor.

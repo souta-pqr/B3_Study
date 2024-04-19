@@ -1,0 +1,3 @@
+=== Thermal noise ===
+Noise (electronics)#Thermal noise
+Thermal noise in a resistor.

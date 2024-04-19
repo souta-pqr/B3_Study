@@ -1,0 +1,1 @@
+Letter grades are used, with A, B, C, D, and E representing a pass and U (unclassified) representing a fail.

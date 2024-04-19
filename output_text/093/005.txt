@@ -1,0 +1,1 @@
+A noise-figure meter could automate that procedure as follows: A gated broadband noise source (such as an avalanche diode) drives the device under test.

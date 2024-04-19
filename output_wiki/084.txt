@@ -1,47 +1,9 @@
-In biology, a motor unit is made up of a motor neuron and all of the skeletal muscle fibers innervated by the neuron's axon terminals, including the neuromuscular junctions between the neuron and the fibres. Groups of motor units often work together as a motor pool to coordinate the contractions of a single muscle. The concept was proposed by Charles Scott Sherrington.All muscle fibers in a motor unit are of the same fiber type. When a motor unit is activated, all of its fibers contract. In vertebrates, the force of a muscle contraction is controlled by the number of activated motor units.
-The number of muscle fibers within each unit can vary within a particular muscle and even more from muscle to muscle: the muscles that act on the largest body masses have motor units that contain more muscle fibers, whereas smaller muscles contain fewer muscle fibers in each motor unit. For instance, thigh muscles can have a thousand fibers in each unit, while extraocular muscles might have ten. Muscles which possess more motor units (and thus have greater individual motor neuron innervation) are able to control force output more finely.
-Motor units are organized slightly differently in invertebrates: each muscle has few motor units (typically less than 10), and each muscle fiber is innervated by multiple neurons, including excitatory and inhibitory neurons. Thus, while in vertebrates the force of contraction of muscles is regulated by how many motor units are activated, in invertebrates it is controlled by regulating the balance between excitatory and inhibitory signals.
-
-
-== Recruitment (vertebrate) ==
-The central nervous system is responsible for the orderly recruitment of motor neurons, beginning with the smallest motor units. Henneman's size principle indicates that motor units are recruited from smallest to largest based on the size of the load. For smaller loads requiring less force, slow twitch, low-force, fatigue-resistant muscle fibers are activated prior to the recruitment of the fast twitch, high-force, less fatigue-resistant muscle fibers. Larger motor units are typically composed of faster muscle fibers that generate higher forces.The central nervous system has two distinct ways of controlling the force produced by a muscle through motor unit recruitment: spatial recruitment and temporal recruitment. Spatial recruitment is the activation of more motor units to produce a greater force. Larger motor units contract along with small motor units until all muscle fibers in a single muscle are activated, thus producing the maximum muscle force. Temporal motor unit recruitment, or rate coding, deals with the frequency of activation of muscle fiber contractions. Consecutive stimulation on the motor unit fibers from the alpha motor neuron causes the muscle to twitch more frequently until the twitches "fuse" temporally. This produces a greater force than singular contractions by decreasing the interval between stimulations to produce a larger force with the same number of motor units.
-Using electromyography (EMG), the neural strategies of muscle activation can be measured. Ramp-force threshold refers to an index of motor neuron size in order to test the size principle. This is tested by determining the recruitment threshold of a motor unit during isometric contraction in which the force is gradually increased. Motor units recruited at low force (low-threshold units) tend to be small motor units, while high-threshold units are recruited when higher forces are needed and involve larger motor neurons. These tend to have shorter contraction times than the smaller units. The number of additional motor units recruited during a given increment of force declines sharply at high levels of voluntary force. This suggests that, even though high threshold units generate more tension, the contribution of recruitment to increase voluntary force declines at higher force levels.
-When necessary, the maximal number of motor units in a muscle can be recruited simultaneously, producing the maximum force of contraction for that muscle, but this cannot last for very long because of the energy requirements to sustain the contraction. To prevent complete muscle fatigue, motor units are generally not all simultaneously active, but instead some motor units rest while others are active, which allows for longer muscle contractions. The nervous system uses recruitment as a mechanism to efficiently utilize a skeletal muscle.To test motor unit stimulation, electrodes are placed extracellularly on the skin and an intramuscular stimulation is applied. After the motor unit is stimulated, its pulse is then recorded by the electrode and displayed as an action potential, known as a motor unit action potential (MUAP). When multiple MUAP’s are recorded within a short time interval, a motor unit action potential train (MUAPT) is then noted. The time in between these pulses is known as the inter-pulse interval (IPI). In medical electrodiagnostic testing for a patient with weakness, careful analysis of the MUAP size, shape, and recruitment pattern can help in distinguishing a myopathy from a neuropathy.
-
-
-== Motor unit types (vertebrate) ==
-Motor units are generally categorized based upon the similarities between several factors:
-
-PhysiologicalContraction speed in Isometric contractions
-Rate of rise of force
-Time to peak of a twitch contraction (response to a single nerve impulse)FF — Fast fatigable — high force, fast contraction speed but fatigue in a few seconds.
-FR — Fast fatigue resistant — intermediate force, fatigue resistant — fast contraction speed and resistant to fatigue.
-FI — Fast intermediate — intermediate between FF and FR.
-S or SO — Slow (oxidative) — low force, slower contraction speed, highly fatigue resistant.Biochemical
-Histochemical (the oldest form of biochemical fiber typing)Glycolytic enzyme activity (e.g. glycerophosphate dehydrogenase (GPD))
-Oxidative enzyme activity (e.g. succinate dehydrogenase -SDH )
-Sensitivity of Myosin ATPase to acid and alkaliThese generally designate fibers as:
-I (Slow oxidative, SO) — Low glycolytic and high oxidative presence. Low(er) myosin ATPase, sensitive to alkali.
-IIa (Fast oxidative/glycolytic, FOG) — High glycolytic, oxidative and myosin ATPase presence, sensitive to acid.
-IIb (Fast glycolytic, FG) — High glycolytic and myosin ATPase presence, sensitive to acid. Low oxidative presence.
-IIi — fibers intermediate between IIa and IIb.Histochemical and Physiological types correspond as follows:
-S and Type I, FR and type IIa, FF and type IIb, FI and IIi.Immunohistochemical (a more recent form of fiber typing)Myosin Heavy Chain (MHC)
-Myosin Light Chain — alkali (MLC1)
-Myosin Light Chain — regulatory (MLC2)The Immunohistochemical types are as follows, with the type IIa, IIb and slow corresponding to IIa, IIb and slow (type I) histochemical types:Table reproduced fromGene characterization of myosinsThere are currently about 15 known different types of MHC genes recognized in muscle, only some of which may be expressed in a single muscle fiber. These genes form one of ~18 classes of myosin genes, identified as class II which should not be confused with the type II myosins identified by immunohistochemistry. The expression of multiple MHC genes in a single muscle fiber is an example of polymorphism. The relative expression of these myosin types is determined partly by genetics and partly by other biological factors such as activity, innervation and hormones.The typing of motor units has thus gone through many stages and reached a point where it is recognized that muscle fibers contain varying mixtures of several myosin types that can not easily be classified into specific groups of fibers. The three (or four) classical fiber types represent peaks in the distribution of muscle fiber properties, each determined by the overall biochemistry of the fibers.
-Estimates of innervation ratios of motor units in human muscles:
-
-Table reproduced from Karpati (2010)
-
-
-== See also ==
-MYH1, MYH2, MYH3, MYH4, MYH6, MYH7, MYH7B, MYH8, MYH9, MYH10, MYH11, MYH13, MYH14, MYH15, MYH16
-tetanic contraction
-motor unit number estimation
+Tuula Anneli Björkling (born 1952) is a Finnish model and beauty queen who was crowned Miss International 1973 held at the Exposition Hall Fairgrounds in Osaka, Japan. She is the first Finn to win the title.
+Björkling joined the Miss World 1972 pageant in London, United Kingdom, wherein she placed sixth. She is also the winner of the Miss Scandinavia 1973 contest, held in Tampere, Finland, in October 1972.
 
 
 == References ==
-Altshuler, Douglas; K. Welch; B. Cho; D. Welch; A. Lin; W. Dickinson; M. Dickinson (April 2010). "Neuromuscular control of wingbeat kinematics in Annas hummingbirds". The Journal of Experimental Biology. 213 (Pt 14): 2507–2514. doi:10.1242/jeb.043497. PMC 2892424. PMID 20581280.
 
 
 == External links ==
-Neurons and Support Cells
+Miss International former titleholders (official website)

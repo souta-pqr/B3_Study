@@ -1,0 +1,4 @@
+=== Programming schedule ===
+The schedule looks like this:
+
+However, this creates a lot of repetition, especially in the night programming, which consists of a number of programmes from the previous days.

@@ -1,0 +1,2 @@
+== Preparation ==
+Once contamination has been removed, samples must be converted to a form suitable for the measuring technology to be used.

@@ -1,0 +1,1 @@
+A measurement is made with the noise source on; another measurement with the noise source off.

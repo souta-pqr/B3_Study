@@ -1,0 +1,1 @@
+Motchenbacher & Fitchen (1973, p. 292) describe using a forward biased diode as a calibrated noise source.

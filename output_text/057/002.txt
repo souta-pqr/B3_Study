@@ -1,2 +1,1 @@
-== Family and early history ==
-David Yencken was born in Berlin.
+NOS2 is expressed primarily in macrophages after induction by cytokines and microbial products, notably interferon-gamma (IFN-γ) and lipopolysaccharide (LPS).Reactive nitrogen species act together with reactive oxygen species (ROS) to damage cells, causing nitrosative stress.

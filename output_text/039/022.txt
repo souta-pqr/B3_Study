@@ -1,0 +1,2 @@
+== Technology ==
+Pneumatic actuators are powerful enough to move heavier objects like simulated limbs, while   hydraulics are used more for large figures.

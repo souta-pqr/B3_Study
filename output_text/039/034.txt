@@ -1,0 +1,1 @@
+The current versions (series A-100) now have individual actuators for each finger.

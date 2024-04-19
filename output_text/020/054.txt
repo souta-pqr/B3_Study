@@ -1,0 +1,1 @@
+Targets for accelerator mass spectrometry are created from CO2 by catalysing the reduction of the gas in the presence of hydrogen.

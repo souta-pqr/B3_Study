@@ -1,0 +1,1 @@
+They also describe a generator made from a low-noise amplifier with a shorted input.

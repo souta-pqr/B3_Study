@@ -1,14 +1,35 @@
-The 2018 FIL European Luge Championships took place under the auspices of the International Luge Federation at Sigulda, Latvia from 27 to 28 January 2018. This was the fourth time Sigulda hosted the event.
+Blue Warrior is the second novel by Mike Maden and published on October 16, 2014. It is also the second book in the Troy Pearce series of techno-thrillers. In the novel, Pearce helps Tuareg leader Mossa Ag Alla, who is being targeted by the Chinese over control of the recently discovered rare earth mineral deposits across Mali, which is Tuareg territory.
 
 
-== Schedule ==
-Four events were held.
+== Plot summary ==
+A Chinese oil company has a vested interest in the recently discovered rare earth mineral deposits all over the Sahara, particularly in the country of Mali. However, the Malian government has been battling the Tuaregs, nomad warriors who hold the territory. As a result, Zhao Yi, one of the vice presidents of the company that spearheaded the initiative, agrees to help the government bring down the rebellion by hunting down the Tuaregs, utilizing the services of People's Liberation Army (PLA) operator Guo Jun.
+Meanwhile, Troy Pearce has been dealing with grief over the brutal murder of his friend Johnny Paloma by rhinoceros poachers (who are aided by Guo) in Mozambique. He is later tasked by former U.S. president Margaret Myers with extracting her former head of security Mike Early, who is now a bodyguard to Italian doctor Cella Paolini, Troy’s former lover, from Mali. Upon arriving there, he finds out that they are joined by Mossa Ag Alla, leader of the Tuaregs (“Blue Warrior”) and Cella’s father-in-law.
+In Washington, D.C., power-hungry senator Barbara Fiero plots to make current president Greyhill break his promise of “no boots on the ground”, where he has been enjoying high approval ratings, and lose in the upcoming presidential elections as a result, citing the growing Chinese involvement in the rare-earth mineral deposits across Africa as the reason; she privately recruits the services of skilled hacker Jasmine Bath. Meanwhile, Myers has been investigating the suicide of her friend and Supreme Court justice Vincent Tanner, unknowingly putting herself on Bath’s radar. After finding out that she is under surveillance, she escapes to Pearce’s Wyoming home and investigates the circumstances regarding Tanner’s death along with Pearce Systems IT head Ian McTavish, later concluding that Fiero and Bath are involved.
+Mossa and his men accompany Pearce, Cella, and Early on a six-day trek through the Saharan desert into an abandoned airfield in southern Algeria, where they will be airlifted out of Africa. They manage to dispatch roving Malian soldiers as well as members of the French Foreign Legion, who are in the area to track down al Rus, an al-Qaeda operative. Al Rus himself also attacks the traveling party, but is later neutralized by a French Reaper drone strike.
+Meanwhile, Bath finds out about Myers and Pearce’s connection to Mossa and later outs them as accomplices to the Tuareg chief, whom she assigned as a high-level target to be neutralized in a drone strike, through planting fake intelligence briefings into the databases of the intelligence agencies. Fiero relays this information to vice president Gary Diele, who reluctantly becomes an accomplice to her plot. However, Pearce and Mossa are unharmed; the Reaper drone strike instead kills Mossa's arms dealer, who was carrying an assault rifle traded to him by Pearce, as well as his men; it was outfitted with an RFID chip that enabled Bath to falsely pinpoint Pearce's exact location. Bath then decides to end her services to the Fieros and escape the country, but not before issuing a bogus emergency command to the FBI server that leads to the shutdown of Pearce Systems and the arrest of its employees.
+Upon arriving in the abandoned airport, Pearce engages in a long battle with Guo’s men, where Mossa and his men as well as Early are killed. Pearce and Cella manage to escape the airfield, but not before Troy gets shot in the head by Guo. He recuperates in Cella’s home in Milan, Italy, and after recovering from his scalp wound, later avenges Paloma and Early’s deaths by killing Guo, Zhao, and Bath. He tries to assassinate Fiero but is restrained by Myers, who later arranges a leak of an audio recording of Fiero and Diele authorizing the illegal drone strike on Pearce in Mali, effectively ending their political careers.
 
 
-== Medalists ==
+== Characters ==
+Troy Pearce: Head of Pearce Systems, a private contractor that specializes in drone technology.
+Mossa Ag Alla: Leader of the Tuaregs, also known as “Blue Warrior”
+Cella Paolini: Italian doctor, Pearce’s former lover and Mossa’s daughter-in-law
+Margaret Myers: Former president of the United States, now CEO of her own software company
+Mike Early: Myers’s former bodyguard, now Cella’s security. Later killed by Guo using a sniper rifle.
+Ian McTavish: Head of IT for Pearce Systems
+Judy Hopper: Former pilot for Pearce Systems, now a missionary based in Africa
+Zhao Yi: Vice president of business affairs in Sino-Sahara Oil Corporation. Later killed by Pearce by hacking into the elevators of his office in Mali.
+Guo Jun: Special forces operator for People’s Liberation Army. Later killed by Pearce in Congo.
+Al Rus: Al Qaeda in Sahara (AQS) operative. Later killed by a French Reaper drone strike in southern Algeria.
+Barbara Fiero: United States senator who plots the downfall of current president Greyhill in order to easily win his place in the 2016 election.
+Jasmine Bath: Head of CIOS, a privately owned data outfit similar to the National Security Agency. Later killed by Pearce using a turtle drone while deep diving in the Galápagos Islands.
+Gary Diele: Vice president of the United States and reluctant accomplice to Fiero’s plot.
+Johnny Paloma: Small unmanned aerial systems (sUAS) operator for Pearce Systems. Brutally murdered by Guo and rhinoceros poachers in Mozambique.
+Sandra Gallez: World Wildlife Alliance environmentalist. Brutally murdered along with Paloma.
 
 
-== Medal table ==
+== Reception ==
+The book received positive reviews. Publishers Weekly praised Maden, who "handles cutting edge technology and the ancient Tuareg culture with equal dexterity". Kirkus Reviews hailed the novel as "a multifaceted political thriller that will delight tech junkies".
 
 
 == References ==

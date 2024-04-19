@@ -1,4 +1,59 @@
-Joel Rueben Hitt Jr. (December 30, 1916 – June 2, 2003) was an American professional basketball and football player. He played in the National Basketball League for the Akron Goodyear Wingfoots during the 1939–40 season and averaged 0.7 points per game.In football, he was selected in the 1939 NFL Draft by the Cleveland Rams (13th round, 113th overall). He played for them in three games that season and accumulated 54 total yards of offense in his brief NFL career.
+A noise-figure meter is an instrument for measuring the noise figure of an amplifier, mixer, or similar device. An example instrument is the 1983-era Agilent 8970A. 8970A Noise Figure Meter is a Keysight product numbers that were formerly part of Agilent.
+
+
+== Measurement methods ==
+One way to perform the measurement is described on the Y-factor page. A noise-figure meter could automate that procedure as follows: A gated broadband noise source (such as an avalanche diode) drives the device under test. A measurement is made with the noise source on; another measurement with the noise source off. From those measurements and the characteristics of the noise source, the noise figure can be calculated.
+
+
+== Noise source ==
+Some noise figure meters need a calibrated broadband noise source—a noise generator. Several methods are used to generate broadband noise. Some methods require two sources: a "hot" and "cold" source. For high frequency measurements, the noise source will be embedded in a transmission line.
+
+
+=== Thermal noise ===
+Noise (electronics)#Thermal noise
+Thermal noise in a resistor. Resistor in liquid nitrogen. Resistor in boiling water.
+
+
+=== Shot noise ===
+Noise (electronics)#Shot noise
+Electrons crossing a gap make discrete arrivals. Impulse. White noise. Compare to thermal electrons.
+Motchenbacher & Fitchen (1973, p. 292) describe using a forward biased diode as a calibrated noise source. They also describe a generator made from a low-noise amplifier with a shorted input. Its noise voltage is determined by the shot noise of the amplifier's input transistor.
+
+
+=== Vacuum tube ===
+
+Random noise generators can be made from temperature-limited vacuum tube diodes. (Motchenbacher & Fitchen 1973, pp. 289–291) The vacuum tube's anode (plate) is high enough to collect all the electrons emitted from the hot cathode. The operating conditions are set to avoid a space charge around the filament/cathode that would affect the electron emission. The anode current exhibits shot noise.
+The noise current is set by the filament temperature. The current is an exponential function of filament temperature.
+At low frequencies, there is 1/f noise. At high frequencies, the transit time of the electron becomes an issue.
+Ott (1976, pp. 218–219) describes using a noise diode to measure noise factor.
+
+
+=== Zener and avalanche diodes ===
+Voltage breakdown diodes are often used as noise generators. (Motchenbacher & Fitchen 1973, pp. 180–182) There are two breakdown mechanisms: Zener and avalanche. Diodes with the corresponding effects are known as Zener diodes and avalanche diodes. The two mechanisms have different noise behaviors.
+The Zener effect (or internal field emission effect) dominates below 7 volts. The junction is thin, and the electric field is large enough that electrons jump the energy gap. The primary noise is shot noise. There is little other noise (excess noise).
+Avalanche breakdown is noisier. A carrier traversing the semiconductor junction is accelerated by the reverse-bias field, and it can generate new electron-hole pairs in a collision. Those new carriers can also generate more carriers in a subsequent collisions. The carriers don't arrive singly but rather in bunches. The result is avalanche multiplication of what would have been just shot noise. The spectrum, like shot noise, is white.
+Avalanche breakdown can also exhibit multi-state noise. The generated output noise appears to switch between two or more distinct levels. This noise has a 1/f characteristic. The effect can be minimized.
+Motchenbacher & Fitchen (1973, pp. 291–292) describe a noise source using a Zener diode (and also suitable for an avalanche diode).
+Some commercial microwave noise generators use avalanche diodes to create a large excess noise figure that can be turned off and on. The impedance of the diode is different during the two states, so an output attenuator is used. The attenuator reduces the noise source output, but it minimizes mismatch loss. (Swain & Cox 1983, p. 26)
+
+
+== See also ==
+Noise (electronics)
+Noise figure
+Radio noise source
+
+
+== Notes ==
 
 
 == References ==
+Keysight (June 2009), Keysight 346A/B/C Noise Source (PDF)
+Hewlett-Packard (May 1985), HP 8970A Noise Figure Meter: Operating & Service Manual (PDF) (29MB download)
+Motchenbacher, C. D.; Fitchen, F. C. (1973), Low-Noise Electronic Design, New York: John Wiley & Sons, ISBN 0-471-61950-7
+Ott, Henry W. (1976), Noise Reduction Techniques in Electronic Systems, New York: John Wiley & Sons, ISBN 0-471-65726-3
+Swain, Howard L.; Cox, Rick M. (April 1983), "Noise Figure Meter Sets Records for Accuracy, Repeatability, and Convenience" (PDF), HP Journal, 34 (4): 23–34
+Also
+
+HP Application notes
+Newer generation manuals
+Ailtech fixed IF

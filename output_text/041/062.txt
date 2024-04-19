@@ -1,0 +1,11 @@
+==== Laboratory ====
+The faculty has four laboratories:
+
+Clinical skill laboratory
+Biomedical laboratory
+Computer laboratory
+Learning evaluation laboratory
+
+
+=== Faculty of Mathematics and Natural Sciences ===
+The faculty has several study programs, including doctorate degree, master's degree and bachelor's degree.

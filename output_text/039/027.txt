@@ -1,0 +1,1 @@
+This ball joint permits the cylinders to float freely inside the frame, such as when the wrist joint rotates and flexes.

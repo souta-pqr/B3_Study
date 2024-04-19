@@ -1,14 +1,1 @@
-== Trade names for CEC technology ==
-Trade names for CEC include:
-
-
-== CEC commands ==
-The following is a list of the most commonly used HDMI-CEC commands:
-
-One Touch Play allows devices to switch the TV to use it as the active source when playback starts
-System Standby enables users to switch multiple devices to standby mode with the press of one button
-Preset Transfer transfers the tuner channel setup to another TV set
-One Touch Record allows users to record whatever is currently being shown on the HDTV screen on a selected recording device
-Timer Programming allows users to use the electronic program guides (EPGs) that are built into many HDTVs and set-top-boxes to program the timer in recording devices like PVRs and DVRs
-System Information checks all components for bus addresses and configuration
-Deck Control allows a component to interrogate and control the operation (play, pause, rewind etc.
+The album featured vocals by Nicole Wray, who was to become Elliott's first artist for The Goldmind, Inc. other than Elliott herself.

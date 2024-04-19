@@ -1,2 +1,9 @@
-Forum dedicated to Carson City and Indian Village
-Carson City and Indian Village (Catskill, NY), Part 1.
+== Digital Voice Types ==
+ASTRO - proprietary VSELP vocoder implementation and IMBE vocoder implementation for APCO-25 Common Air Interface
+
+
+== References ==
+
+
+== External links ==
+Homepage of motorola solutions radios.

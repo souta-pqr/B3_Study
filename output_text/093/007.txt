@@ -1,0 +1,1 @@
+From those measurements and the characteristics of the noise source, the noise figure can be calculated.

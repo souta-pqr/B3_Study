@@ -1,1 +1,2 @@
-== References ==
+== Measurement methods ==
+One way to perform the measurement is described on the Y-factor page.

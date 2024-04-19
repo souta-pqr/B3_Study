@@ -1,21 +1,15 @@
-Dorothy Brandon was a British playwright active in the interwar years. Her greatest West End success was the 1923 medical drama The Outsider which was revived several times, and adapted into films on three occasions.An earlier hit was 1917's Wild Heather which ran at the Strand Theatre for 79 performances. It was also made into a film. A 1926 play Blind Alley was less successful, running for thirteen performances.
+The Technical Advisory Council (TAC) is a federal advisory committee of the Federal Communications Commission and the FCC's Office of Engineering and Technology (OET). Its mandate is to provide the FCC with technical advice in such rapidly growing fields as cable television, telephony, and the Internet.
 
 
-== Selected plays ==
-Wild Heather (1917)
-Araminta Arrives (1921)
-The Outsider (1923)
-Blind Alley (1926)
+== History ==
+TAC held its first meeting on April 17, 2003, under the leadership of TAC Chairman Dr. Robert Lucky, a former Bell Labs researcher.
 
 
-== References ==
-
-
-== Bibliography ==
-Gale, Maggie. West End Women: Women and the London Stage 1918 - 1962. Routledge, 2008.
-Goble, Alan. The Complete Index to Literary Sources in Film. Walter de Gruyter, 1999.
-Wearing, J. P. The London Stage 1920-1929: A Calendar of Productions, Performers, and Personnel. Rowman & Littlefield, 2014.
+== Members ==
+TAC is primarily composed of representatives from major American telecommunications and media corporations. The current committee, TAC IV, was created on November 19, 2004, and has members from such companies as Cisco, Sprint, Motorola, Google, Comcast, Microsoft, HP, Verizon, Qualcomm, Fox, Bellsouth, and Apple Computer.
+Vint Cerf, the co-creator of the Internet protocol TCP/IP, has served on several instances of the committee.
 
 
 == External links ==
-Dorothy Brandon at IMDb
+OET Technical Advisory Council
+TAC IV Members

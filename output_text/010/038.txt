@@ -1,1 +1,1 @@
-Including the initial idle time and extra-long start bit, this takes 88.5 ms (37 bit times).
+Although it did go platinum, it was not as successful as Elliott's previous efforts.

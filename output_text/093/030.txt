@@ -1,0 +1,1 @@
+At high frequencies, the transit time of the electron becomes an issue.

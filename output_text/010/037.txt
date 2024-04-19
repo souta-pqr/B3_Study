@@ -1,1 +1,1 @@
-For example, a user press on a remote control will generate a 3-byte frame: a header byte, a <User Control Pressed> opcode (0x44), and an operand byte identifying the button.
+In 2003, Elliott released her platinum selling fifth album This Is Not A Test!.

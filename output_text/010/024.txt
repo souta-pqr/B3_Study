@@ -1,1 +1,1 @@
-Each byte consists of ten bits: eight data bits (transmitted msbit-first, in big-endian order), an "end of message" bit (set to 1 after the last byte of a frame), and an "acknowledge" bit.
+That friend was Charlene "Tweet" Keys, who was at the time depressed and penniless and was on the verge of committing suicide.
