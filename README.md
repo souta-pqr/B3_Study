@@ -14,5 +14,5 @@
 ### ※仮想環境で実行することをお勧めします
 - リポジトリをクローンする
 `git clone https://github.com/souta-pqr/B3_Study.git`
-- cloneしたリポジトリに移動後，以下のコマンドを実行
+- cloneしたリポジトリに移動後，以下のコマンドを実行\n
 `pip install -r requirements.txt`
