@@ -1,0 +1,2 @@
+== History ==
+Pyrrole was first detected by F. F. Runge in 1834, as a constituent of coal tar.

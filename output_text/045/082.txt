@@ -1,2 +1,0 @@
-==== Line-side monitoring equipment ====
-Line-side train monitoring equipment includes hot axle box detectors (HABD) and 'Wheelchex' wheel impact load detectors (WILD), sited as follows.

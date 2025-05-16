@@ -1,1 +1,0 @@
-The noise current is set by the filament temperature.

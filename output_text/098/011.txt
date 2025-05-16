@@ -1,1 +1,5 @@
-He continued his studies at Our Lady of Angels Seminary, near Niagara Falls, New York (1871–1872) and at the Jesuits' St. Mary's College, in Montreal, Quebec.
+== Table of selected SOI radii ==
+
+The table shows the values of the sphere of gravity of the bodies of the solar system in relation to the Sun (with the exception of the Moon which is reported relative to Earth):
+
+An important understanding to be drawn from this table is that "Sphere of Influence" here is "Primary".

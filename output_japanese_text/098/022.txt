@@ -1,0 +1,7 @@
+χ A =
+|gB
+− a A
+| |
+gA
+| {\displaystyle \chi _{A}={\frac
+{|g_{B}-a_{A}|}{|g_{A}|}}} 。

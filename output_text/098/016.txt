@@ -1,1 +1,30 @@
-Many Catholics were still struggling to assimilate into the American economy.
+The distance 
+  
+    
+      
+        R
+        =
+        
+          |
+        
+        
+          r
+          
+            B
+          
+        
+        −
+        
+          r
+          
+            A
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle R=|r_{B}-r_{A}|}
+  
+ separates the two objects.

@@ -1,1 +1,0 @@
-A carrier traversing the semiconductor junction is accelerated by the reverse-bias field, and it can generate new electron-hole pairs in a collision.

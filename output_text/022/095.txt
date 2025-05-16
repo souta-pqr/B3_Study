@@ -1,0 +1,2 @@
+=== Cyclization reactions ===
+Pyrroles with N-substitution can undergo cycloaddition reactions such as [4+2]-, [2+2]-, and [2+1]-cyclizations.

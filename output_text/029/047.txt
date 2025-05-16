@@ -1,2 +1,0 @@
-==== Transformers ====
-In cooperation, Zipernovsky, Bláthy and Déri (known as the ZBD team) constructed and patented the transformer.

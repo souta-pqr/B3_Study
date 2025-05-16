@@ -1,0 +1,1 @@
+Pyrrole has aromatic character because the lone pairs of electrons on the nitrogen atom is partially delocalized into the ring, creating a 4n + 2 aromatic system (see Hückel's rule).

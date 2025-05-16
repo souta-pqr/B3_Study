@@ -1,2 +1,185 @@
-== Founding of the Knights of Columbus ==
-From his own experience, McGivney recognized the devastating effect on immigrant families of the father and wage earner's untimely death.
+A more accurate formula is given by
+
+  
+    
+      
+        
+          r
+          
+            SOI
+          
+        
+        (
+        θ
+        )
+        ≈
+        a
+        
+          
+            (
+            
+              
+                m
+                M
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+        
+          
+            1
+            
+              
+                1
+                +
+                3
+                
+                  cos
+                  
+                    2
+                  
+                
+                ⁡
+                (
+                θ
+                )
+              
+              
+                10
+              
+            
+          
+        
+      
+    
+    {\displaystyle r_{\text{SOI}}(\theta )\approx a\left({\frac {m}{M}}\right)^{2/5}{\frac {1}{\sqrt[{10}]{1+3\cos ^{2}(\theta )}}}}
+  
+
+Averaging over all possible directions we get:
+
+  
+    
+      
+        
+          
+            
+              r
+              
+                SOI
+              
+            
+            ¯
+          
+        
+        =
+        0.9431
+        a
+        
+          
+            (
+            
+              
+                m
+                M
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle {\overline {r_{\text{SOI}}}}=0.9431a\left({\frac {m}{M}}\right)^{2/5}}
+  
+
+
+== Derivation ==
+Consider two point masses 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ at locations 
+  
+    
+      
+        
+          r
+          
+            A
+          
+        
+      
+    
+    {\displaystyle r_{A}}
+  
+ and 
+  
+    
+      
+        
+          r
+          
+            B
+          
+        
+      
+    
+    {\displaystyle r_{B}}
+  
+, with mass 
+  
+    
+      
+        
+          m
+          
+            A
+          
+        
+      
+    
+    {\displaystyle m_{A}}
+  
+ and 
+  
+    
+      
+        
+          m
+          
+            B
+          
+        
+      
+    
+    {\displaystyle m_{B}}
+  
+ respectively.

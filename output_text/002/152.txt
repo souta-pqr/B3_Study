@@ -1,1 +1,0 @@
-The upper drawing is considered to be the first and the lower the second.

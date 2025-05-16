@@ -1,1 +1,126 @@
-On May 27, 2020, the miracle attributed to the intercession of McGivney was approved by Congregation for the Causes of Saints and authorized by Pope Francis.
+The distance to the sphere of influence must thus satisfy 
+  
+    
+      
+        
+          
+            
+              m
+              
+                B
+              
+            
+            
+              m
+              
+                A
+              
+            
+          
+        
+        
+          
+            
+              r
+              
+                3
+              
+            
+            
+              R
+              
+                3
+              
+            
+          
+        
+        =
+        
+          
+            
+              m
+              
+                A
+              
+            
+            
+              m
+              
+                B
+              
+            
+          
+        
+        
+          
+            
+              R
+              
+                2
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {m_{B}}{m_{A}}}{\frac {r^{3}}{R^{3}}}={\frac {m_{A}}{m_{B}}}{\frac {R^{2}}{r^{2}}}}
+  
+ and so 
+  
+    
+      
+        r
+        =
+        R
+        
+          
+            (
+            
+              
+                
+                  m
+                  
+                    A
+                  
+                
+                
+                  m
+                  
+                    B
+                  
+                
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle r=R\left({\frac {m_{A}}{m_{B}}}\right)^{2/5}}
+  
+ is the radius of the sphere of influence of body 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+
+
+== Gravity well ==
+Gravity well (or funnel) is a metaphorical concept for a gravitational field of a mass, with the field being curved in a funnel-shaped well around the mass, illustrating the steep gravitational potential and its energy that needs to be accounted for in order to escape or enter the main part of a sphere of influence.

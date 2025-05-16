@@ -1,1 +1,0 @@
-Diodes with the corresponding effects are known as Zener diodes and avalanche diodes.

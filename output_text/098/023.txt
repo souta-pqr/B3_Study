@@ -1,1 +1,31 @@
-During the 2022 fraternal year, the order donated $185 million and 49 million man-hours to charity.
+The perturbation 
+  
+    
+      
+        
+          g
+          
+            B
+          
+        
+        −
+        
+          a
+          
+            A
+          
+        
+      
+    
+    {\displaystyle g_{B}-a_{A}}
+  
+ is also known as the tidal forces due to body 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+.

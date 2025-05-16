@@ -1,1 +1,1 @@
-Since the data capacity of Type I systems is limited, and the total amount of data increases with each user, Type I systems usually accommodate fewer users than Type II systems.
+The structural system consists only of the members designed to carry the loads, and all other members are referred to as non-structural.

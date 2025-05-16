@@ -1,1 +1,0 @@
-The median age in the city was 39.9 years.

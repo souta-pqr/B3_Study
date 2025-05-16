@@ -1,1 +1,0 @@
-When multiple MUAP’s are recorded within a short time interval, a motor unit action potential train (MUAPT) is then noted.

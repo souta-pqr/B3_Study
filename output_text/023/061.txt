@@ -1,1 +1,0 @@
-Specialization streaming is depended on the grades obtained for subjects in the O/L.

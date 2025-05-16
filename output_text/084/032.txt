@@ -1,1 +1,0 @@
-The time in between these pulses is known as the inter-pulse interval (IPI).

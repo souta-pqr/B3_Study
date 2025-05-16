@@ -1,5 +1,0 @@
-The Ganz Works built the first transformers using iron plating of enamelled mild iron wire, and started to use laminated cores to eliminate eddy currents
-
-
-==== AC Power stations ====
-In 1886, the ZBD engineers designed, and the company supplied, electrical equipment for the world's first power station to use AC generators to power a parallel connected common electrical network.

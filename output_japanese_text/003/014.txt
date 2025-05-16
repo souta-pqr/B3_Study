@@ -1,1 +1,1 @@
-これは象徴的です。
+== Charts == == Release history == == References ==

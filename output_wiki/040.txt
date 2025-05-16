@@ -1,38 +1,63 @@
-Ernest Oscar Melby (August 16, 1891 – January 11, 1987) was a professor, dean, and university president.
+Science of Logic (German: Wissenschaft der Logik), first published between 1812 and 1816, is the work in which Georg Wilhelm Friedrich Hegel outlined his vision of logic. Hegel's logic is a system of dialectics, i.e., a dialectical metaphysics: it is a development of the principle that thought and being constitute a single and active unity. Science of Logic also incorporates the traditional Aristotelian syllogism: it is conceived as a phase of the "original unity of thought and being" rather than as a detached, formal instrument of inference.
+For Hegel, the most important achievement of German idealism, starting with Immanuel Kant and culminating in his own philosophy, was the argument that reality (being) is shaped by thought and is, in a strong sense, identical to thought. Thus ultimately the structures of thought and being, subject and object, are identical. Since for Hegel the underlying structure of all of reality is ultimately rational, logic is not merely about reasoning or argument but rather is also the rational, structural core of all of reality and every dimension of it. Thus Hegel's Science of Logic includes among other things analyses of being, nothingness, becoming, existence, reality, essence, reflection, concept, and method.
+Hegel considered it one of his major works and therefore kept it up to date through revision.
+Science of Logic is sometimes referred to as the Greater Logic to distinguish it from the Lesser Logic, the moniker given to the condensed version Hegel presented as the "Logic" section of his Encyclopedia of the Philosophical Sciences.
 
 
-== Background ==
-Ernest Oscar Melby was born in Lake Park, Minnesota. He was the son of Ole Hans Melby and Ellen (Stakke) Melby. Melby received his B.A. from St. Olaf College in Northfield, Minnesota, in 1913. He attended graduate school at the University of Minnesota to receive his master's degree and Ph.D. He married Aurora Herbert on December 29, 1914. Aurora and Ernest Melby met in Alexandria, Minnesota, when he was a physics teacher. They had one child, Stanley Herbert Melby.
+== Publication history ==
+Hegel wrote Science of Logic after he had completed his Phenomenology of Spirit and while he was in Nuremberg working at a secondary school and courting his fiancée. It was published in two volumes. The first, ‘The Objective Logic’, has two parts (the Doctrines of Being and Essence) and each part was published in 1812 and 1813 respectively. The second volume, ‘The Subjective Logic’, was published in 1816 the same year he became a professor of philosophy at Heidelberg. Science of Logic is too advanced for undergraduate students so Hegel wrote an Encyclopaedic version of the logic which was published in 1817.
+In 1826, the book went out of stock. Instead of reprinting, as requested, Hegel undertook some revisions. By 1831, Hegel completed a greatly revised and expanded version of the ‘Doctrine of Being’, but had no time to revise the rest of the book. The Preface to the second edition is dated 7 November 1831, just before his death on 14 November 1831. This edition appeared in 1832, and again in 1834–5 in the posthumous Works. Only the second edition of Science of Logic is translated into English.
 
 
-== Career ==
-Melby began his career as a high school teacher and principal in Minnesota before serving for nine years as the superintendent of schools in Long Prairie, Black Duck and Brewster, Minnesota. In 1928, he was appointed assistant professor of education at Northwestern University, where he conducted prolific research on the administration of several Illinois school districts, the results of which were published in 1929 and 1930. As a result, he was rapidly promoted to associate professor and professor. In 1934, he was named dean of the School of Education at Northwestern, a position he held until 1941 when his antagonistic relationship with Northwestern President Franklyn Bliss Snyder deteriorated to the point where Melby resigned.
-Melby assumed the presidency of Montana State University (later the University of Montana), a post he held from 1941 to 1943 and from 1944 to 1945. In 1943, he became chancellor of the University of Montana. From 1945 to 1956, Melby served as dean of the School of Education (now Steinhardt School of Culture, Education, and Human Development) at New York University.
-Melby joined the faculty of the College of Education at Michigan State University in 1956 following his retirement from New York University. Originally intending to stay for just one year, he worked for 19 years before retiring in 1975.
-In 1975, Melby accepted a distinguished professorship at Florida Atlantic University where he founded and served as consultant to Florida Atlantic University's Center for Community Education. Melby also served as a special consultant to the Charles Stewart Mott Foundation.
+== Hegel's general concept of logic ==
+According to Hegel, logic is the form taken by the science of thinking in general. He thought that, as it had hitherto been practiced, this science demanded a total and radical reformulation "from a higher standpoint." At the end of the preface he wrote that "Logic is the thinking of God". His stated goal with The Science of Logic was to overcome what he perceived to be a common flaw running through all other former systems of logic, namely that they all presupposed a complete separation between the content of cognition (the world of objects, held to be entirely independent of thought for their existence), and the form of cognition (the thoughts about these objects, which by themselves are pliable, indeterminate and entirely dependent upon their conformity to the world of objects to be thought of as in any way true). This unbridgeable gap found within the science of reason was, in his view, a carryover from everyday, phenomenal, unphilosophical consciousness.
+The task of extinguishing this opposition within consciousness Hegel believed he had already accomplished in his book Phänomenologie des Geistes (1807) with the final attainment of Absolute Knowing: "Absolute knowing is the truth of every mode of consciousness because ... it is only in absolute knowing that the separation of the object from the certainty of itself is completely eliminated: truth is now equated with certainty and certainty with truth." Once thus liberated from duality, the science of thinking no longer requires an object or a matter outside of itself to act as a touchstone for its truth, but rather takes the form of its own self-mediated exposition and development which eventually comprises within itself every possible mode of rational thinking. "It can therefore be said," says Hegel, "that this content is the exposition of God as he is in his eternal essence before the creation of nature and a finite mind." The German word Hegel employed to denote this post-dualist form of consciousness was Begriff (traditionally translated either as Concept or Notion).
 
 
-== Selected works ==
-"American Education Is in Danger". ADL Bulletin. May 1951.
-"American Education under Fire: The Story of the 'Phony Three-R Fight'". The New York Times Magazine. September 23, 1951.
-Administering Community Education. Prentice-Hall. 1955.
-The Role of the School in Community Education. Pendell Publishing Company. 1969.
+== General division of the Logic ==
+The self-exposition of the concept (also translated as notion), follows a series of necessary, self-determined stages in an inherently logical, dialectical progression. Its course is from the objective to the subjective "sides" (or judgements as Hegel calls them) of the concept. The objective side, its Being, is the concept as it is in itself [an sich], its reflection in nature being found in anything inorganic such as water or a rock. This is the subject of Book One: The Doctrine of Being. Book Three: The Doctrine of the concept outlines the subjective side of the concept as concept, or, the concept as it is for itself [für sich]; human beings, animals and plants being some of the shapes it takes in nature. The process of Being's transition to the concept as fully aware of itself is outlined in Book Two: The Doctrine of Essence, which is included in the Objective division of the Logic. The Science of Logic is thus divided like this:
+
+Volume One: The Objective Logic
+Book One: The Doctrine of Being
+Book Two: The Doctrine of Essence
+Volume Two: The Subjective Logic
+Book Three: The Doctrine of the Concept
+This division, however, does not represent a strictly linear progression. At the end of the book Hegel wraps all of the preceding logical development into a single Absolute Idea. Hegel then links this final absolute idea with the simple concept of Being which he introduced at the start of the book. Hence the Science of Logic is actually a circle and there is no starting point or end, but rather a totality. This totality is itself, however, but a link in the chain of the three sciences of Logic, Nature and Spirit, as developed by Hegel in his Encyclopedia of the Philosophical Sciences (1817), that, when taken as a whole, comprise a "circle of circles."
 
 
-== Ernest O. Melby Internship ==
-The Ernest O. Melby Internship at Florida Atlantic University makes funds available to a student enrolled in the Department of Educational Leadership who is interested in the field of community education/community schools.
+== Editions of Science of Logic ==
+Translated by W. H. Johnston and L. G. Struthers. London: George Allen & Unwin, 1929.
+Translated by Henry S. Macran (Hegel's Logic of World and Idea) (Bk III Pts II, III only). Oxford, Clarendon Press, 1929.
+Translated by A. V. Miller; Foreword by J. N. Findlay. London: G. Allen & Unwin, 1969.
+Translated by George di Giovanni, Cambridge: Cambridge University Press, 2010.
 
 
-== Ernest O. and Aurora H. Melby Endowed Fellowship ==
-The Ernest O. and Aurora H. Melby Endowed Fellowship was established through the estates of Ernest and Aurora Melby in 1994 following the death of Aurora Melby at 102. The fellowship is designated for students in the Department of Educational Administration at Michigan State University.
-
-
-== Ernest O. Melby Community Education Center ==
-The Ernest O. Melby Community Education Center at Florida Atlantic University was founded in 1967 with a grant from the Charles Stewart Mott Foundation. On February 12, 1988, the center was formally named in honor of Ernest O. Melby.
+== Notes ==
 
 
 == References ==
 
 
+== Secondary literature ==
+Bencivenga, Ermanno. 2000. Hegel's Dialectical Logic. Oxford.
+Burbidge, John W. 1995. On Hegel's Logic. Fragments of a Commentary. Atlantic Highlands, N.J.
+Burbidge, John W. 2006. The Logic of Hegel's Logic. An Introduction. Peterborough, ON.
+Butler, Clark. 1996. Hegel's Logic. Between Dialectic and History. Evanston.
+Carlson, David 2007. A Commentary on Hegel's Science of Logic. New York: Palgrave MacMillan. 978-1403986283
+Di Giovanni, George (ed.). 1990. Essays on Hegel's Logic. Albany: New York State University Press.
+Harris, Errol E. 1983. An Interpretation of the Logic of Hegel. Lanham.
+Harris, William T. 1985. Hegel's Logic: A Book on the Genesis of the Categories of the Mind. A Critical Exposition. Chicago.
+Hartnack, Justus. 1998. An Introduction to Hegel's Logic. Indianapolis: Hackett. ISBN 0-87220-424-3
+Houlgate, Stephen. 2006. The Opening of Hegel's Logic: From Being to Infinity. Purdue: University Press.
+Rinaldi, Giacomo. 1992. A History and Interpretation of the Logic of Hegel. Lewiston: Edwin Mellen Press.
+Trisokkas, Ioannis. 2012. Pyrrhonian Scepticism and Hegel's Theory of Judgement. A Treatise on the Possibility of Scientific Inquiry. Boston: Brill.
+Winfield, Richard Dien. 2012. Hegel's Science of Logic: A Critical Rethinking in Thirty Lectures. Rowman & Littlefield. ISBN 978-1442219342.
+
+
 == External links ==
-"Northwestern University Bio" (PDF).
+Source text (German): Wissenschaft der Logik Vol. 1 Vol. 2
+Outline of Hegel's Logic at marxists.org
+Contents of Hegel's Logic at marxists.org
+Dunayevskaya: Rough Notes on Hegel's Science of Logic
+Lenin: Conspectus of Hegel’s Science of Logic
+Lecture Course in Hegel's Science of Logic – Richard Dien Winfield (Audio)

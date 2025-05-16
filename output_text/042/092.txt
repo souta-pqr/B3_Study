@@ -1,0 +1,1 @@
+Third consist either all white kit or all dark green kit or all black kit.

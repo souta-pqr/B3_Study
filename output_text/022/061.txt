@@ -1,0 +1,1 @@
+This can then either spontaneously cyclize to form 1-pyrroline-5-carboxylic acid, which is reduced to proline by pyrroline-5-carboxylate reductase (using NADH or NADPH), or turned into ornithine by ornithine aminotransferase, followed by cyclisation by ornithine cyclodeaminase to form proline.

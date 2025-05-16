@@ -1,1 +1,10 @@
-The organization developed as a fraternal society.
+Consider a frame centered on 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+.

@@ -1,1 +1,2 @@
-On May 27, 2020, Pope Francis announced that McGivney had been approved for beatification, which officially occurred on October 31, 2020.
+== Models ==
+The most common base models to calculate the sphere of influence is the Hill sphere and the Laplace sphere, but updated and particularly more dynamic ones have been described.

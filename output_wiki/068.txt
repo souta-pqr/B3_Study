@@ -1,15 +1,65 @@
-The Technical Advisory Council (TAC) is a federal advisory committee of the Federal Communications Commission and the FCC's Office of Engineering and Technology (OET). Its mandate is to provide the FCC with technical advice in such rapidly growing fields as cable television, telephony, and the Internet.
+A Dangerous Method is a 2011 historical drama film directed by David Cronenberg. The film stars Keira Knightley, Viggo Mortensen, Michael Fassbender, Sarah Gadon, and Vincent Cassel. Its screenplay was adapted by writer Christopher Hampton from his 2002 stage play The Talking Cure, which was based on the 1993 non-fiction book by John Kerr, A Most Dangerous Method: The Story of Jung, Freud, and Sabina Spielrein.
+Set in the period from 1902 to the eve of World War I, A Dangerous Method follows the turbulent relationships between Carl Jung, founder of analytical psychology, Sigmund Freud, founder of the discipline of psychoanalysis, and Sabina Spielrein, initially Jung's patient and later a physician and one of the first female psychoanalysts.
+A co-production between British, Canadian, and German production companies, the film marks the third consecutive collaboration between Cronenberg and Viggo Mortensen (after A History of Violence and Eastern Promises). This is also the third Cronenberg film made with British film producer Jeremy Thomas, after they collaborated on the William Burroughs adaptation Naked Lunch and the J. G. Ballard adaptation Crash. Filming took place between May and July 2010 in Cologne on a soundstage, with exterior shots filmed in Vienna.
+A Dangerous Method premiered at the 68th Venice Film Festival and was also featured at the 2011 Toronto International Film Festival. The film was theatrically released in Germany on 10 November 2011 by Universal Pictures International, in Canada on 13 January 2012 by Entertainment One and in the United Kingdom on 10 February 2012 by Lionsgate. The film grossed $24 million worldwide and received positive reviews from critics, many praising the performances of Mortensen and Fassbender and Cronenberg's direction. It appeared on several critics' year-end lists. At the 69th Golden Globe Awards, Mortensen was nominated for the Best Supporting Actor – Motion Picture.
 
 
-== History ==
-TAC held its first meeting on April 17, 2003, under the leadership of TAC Chairman Dr. Robert Lucky, a former Bell Labs researcher.
+== Plot ==
+In August 1904, Sabina Spielrein arrives at the Burghölzli, the pre-eminent psychiatric hospital in Zürich, suffering from hysteria and begins a new course of treatment with the young Swiss doctor Carl Jung. He uses word association and dream interpretation as part of his approach to psychoanalysis and finds that Spielrein's condition was triggered by the humiliation and sexual arousal she felt as a child when her father spanked her naked.
+Jung and chief of medicine Eugen Bleuler recognize Spielrein's intelligence and energy and allow her to assist them in their experiments. She measures the physical reactions of subjects during word association, to provide empirical data as a scientific basis for psychoanalysis. She soon learns that much of this new science is founded on the doctors' observations of themselves, each other, and their families, not just their patients. The doctors, Jung and Freud, correspond at length before they meet, and begin sharing their dreams and analysing each other, and Freud himself soon adopts Jung as his heir and agent.
+Jung finds in Spielrein a kindred spirit, and their attraction deepens due to transference. Jung resists the idea of cheating on his wife, Emma, and breaking the taboo of sex with a patient, but his resolve is weakened by the wild and unrepentant confidences of his new patient Otto Gross, a brilliant, philandering, unstable psychoanalyst. Gross decries monogamy in general and suggests that resistance to transference is symptomatic of the repression of normal, healthy sexual impulses, exhorting Jung to indulge himself with abandon.
+Jung finally begins an affair with Spielrein, including rudimentary bondage and spanking. Things become even more tangled as he becomes her advisor to her dissertation; he publishes not only his studies of her as a patient but eventually her treatise as well. Spielrein wants to conceive a child with Jung, but he refuses. After he attempts to confine their relationship again to doctor and patient, she appeals to Freud for his professional help, and forces Jung to tell Freud the truth about their relationship, reminding him that she could have publicly damaged him but did not want to.
+Jung and Freud travel to America. However, cracks appear in their friendship as they begin to disagree more frequently on matters of psychoanalysis. Jung and Spielrein meet to work on her dissertation in Switzerland and begin their sexual relationship once more. However, after Jung refuses to leave his wife for her, Spielrein decides to go to Vienna. She meets Freud and says that although she sides with him, she believes he and Jung need to reconcile for psychoanalysis to continue to develop.
+Following Freud's collapse at an academic conference, he and Jung continue correspondence via letters. They decide to end their relationship after increasing hostilities and accusations regarding the differences in their conceptualisation of psychoanalysis. Spielrein marries a Russian doctor and, while pregnant, visits Jung and his wife. They discuss psychoanalysis and Jung's new mistress. Jung confides that his love for Spielrein made him a better person.
+The film's footnote reveals the eventual fates of the four analysts. Gross starved to death in Berlin in 1920. Freud died of cancer in London in 1939 after being driven out of Vienna by the Nazis. Spielrein trained several analysts in the Soviet Union before she and her two daughters were shot by the Nazis in 1942. Jung emerged from a nervous breakdown to become the world's leading psychologist before dying in 1961.
 
 
-== Members ==
-TAC is primarily composed of representatives from major American telecommunications and media corporations. The current committee, TAC IV, was created on November 19, 2004, and has members from such companies as Cisco, Sprint, Motorola, Google, Comcast, Microsoft, HP, Verizon, Qualcomm, Fox, Bellsouth, and Apple Computer.
-Vint Cerf, the co-creator of the Internet protocol TCP/IP, has served on several instances of the committee.
+== Cast ==
+
+
+== Production ==
+Hampton's earliest version of the screenplay, dating back to the 1990s, was written for Julia Roberts in the role of Sabina Spielrein, but the film was never realized. Hampton re-wrote the screenplay for the stage before producer Jeremy Thomas acquired the rights for both the earlier script and the stage version.
+
+The film was produced by Britain's Recorded Picture Company, with Germany's Lago Film and Canada's Prospero Film acting as co-producers. Additional funding was provided by Medienboard Berlin-Brandenburg, MFG Baden-Württemberg, Filmstiftung NRW, the German Federal Film Board and Film Fund, Ontario Media Development Corp and Millbrook Pictures.
+Christoph Waltz was initially cast as Sigmund Freud, but was replaced by Viggo Mortensen due to a scheduling conflict. Christian Bale had been in talks to play Carl Jung, but he too had to drop out because of scheduling conflicts.
+The filming began on 26 May and ended on 24 July 2010. Exteriors were shot in Vienna and interiors were filmed on a soundstage in Cologne (MMC Studios Köln), Germany. Viennese locations included the Café Sperl, Berggasse 19, and the Schloss Belvedere. Lake Constance (Bodensee) stood in for Lake Zurich.
+
+A noted feature of the film is the extensive use in the musical score of leitmotifs from Wagner's third Ring opera Siegfried, mostly in piano transcription. The composer Howard Shore has said that the structure of the film is based on the structure of the Siegfried opera.
+
+
+== Release ==
+Universal Pictures released the film in German-speaking territories, Spain and South Africa, while Lionsgate took rights to the United Kingdom and Sony Pictures Classics distributed the film in the United States. The film debuted at the Venice Film Festival in Italy on 2 September 2011.
+
+
+== Reception ==
+
+
+=== Critical response ===
+On the review aggregator website Rotten Tomatoes, 78% of 191 critics' reviews are positive, with an average rating of 6.9/10. The website's consensus reads: "A provocative historical fiction about the early days of psychoanalysis, A Dangerous Method is buoyed by terrific performances by Michael Fassbender, Keira Knightley, and Viggo Mortensen." Metacritic, which uses a weighted average, assigned the film a score of 76 out of 100, based on 41 critics, indicating "generally favorable" reviews.
+Louise Keller reports from Urban Cinephile, "The best scenes are those between Mortensen and Fassbender...the tension between the two men mounts as their views conflict: Freud insists that sex is an underlying factor in every neurosis while Jung, interested in spiritualism and the occult, is disappointed by what he considers to be Freud's 'rigid pragmatism.'"
+Andrew O'Hehir's review on Salon notes that on the one hand Freud's "single-minded focus on sexual repression as the source of neurosis led to the creation of psychiatry as a legitimate medical and scientific field—one that was often resistant to change and dominated by authoritarian father figures." On the other hand, Sabina's effect on Jung, and "the discoveries they had made together, both in the office and the bedroom," including the potential in "a creative fusion of opposites—doctor and patient, man and woman, dark and light, Jew and Aryan," led to a falling out between the two men "over a variety of issues, most notably the scientific limits of psychiatric inquiry."
+In contrast, Steven Rea of The Philadelphia Inquirer wrote that, despite the film's exploration of "the way our subconscious works, the way we repress, and suppress, natural urges—the constant battle between the rational and the instinctive, the civilized and the wild", the film "feels distant, and clinical, in ways you wished it did not." In an interview with The Daily Beast's Marlow Stern, Cronenberg himself is quoted as saying that the love scenes between Jung and Spielrein were "quite clinical. These were people who, even when they were having sex, they were observing themselves having sex because they were so interested in their reactions to things."
+The film was listed at number 5 on Film Comment magazine's Best Films of 2011 list.
+
+
+=== Top ten lists ===
+A Dangerous Method was listed on many critics' 2011 top ten lists.
+
+
+== Accolades ==
+
+
+== See also ==
+A Dangerous Method (soundtrack)
+
+
+== References ==
 
 
 == External links ==
-OET Technical Advisory Council
-TAC IV Members
+
+Official website
+Official US website
+A Dangerous Method at IMDb
+A Dangerous Method at Rotten Tomatoes
+A Dangerous Method at Metacritic

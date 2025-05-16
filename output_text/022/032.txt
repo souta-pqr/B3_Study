@@ -1,0 +1,3 @@
+=== Knorr pyrrole synthesis ===
+
+The Knorr pyrrole synthesis involves the reaction of an α-amino ketone or an α-amino-β-ketoester with an activated methylene compound.

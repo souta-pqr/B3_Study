@@ -1,1 +1,0 @@
-後期の <User Control Released> オペコード (0x45) にはオペランドはありません。

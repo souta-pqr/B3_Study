@@ -1,59 +1,890 @@
-Michael Joseph McGivney (August 12, 1852 – August 14, 1890) was an American Catholic priest based in New Haven, Connecticut. He founded the Knights of Columbus at a local parish to serve as a mutual aid and insurance organization, particularly for immigrants and their families. It developed through the 20th century as the world's largest Catholic fraternal organization.
-The cause for his canonization started in the Archdiocese of Hartford in 1996; in March 2008, Pope Benedict XVI declared McGivney "Venerable" in recognition of his "heroic virtue". On May 27, 2020, Pope Francis announced that McGivney had been approved for beatification, which officially occurred on October 31, 2020.
+A sphere of influence (SOI) in astrodynamics and astronomy is the oblate spheroid-shaped region where a particular celestial body exerts the main gravitational influence on an orbiting object. This is usually used to describe the areas in the Solar System where planets dominate the orbits of surrounding objects such as moons, despite the presence of the much more massive but distant Sun. 
+In the patched conic approximation, used in estimating the trajectories of bodies moving between the neighbourhoods of different bodies using a two-body approximation, ellipses and hyperbolae, the SOI is taken as the boundary where the trajectory switches which mass field it is influenced by. It is not to be confused with the sphere of activity which extends well beyond the sphere of influence.
 
 
-== Early life ==
-He was born to Irish immigrant parents, Patrick and Mary (née Lynch) McGivney. He was the eldest of 13 children, six of whom died in infancy or childhood. His father worked as a molder in a Waterbury, Connecticut, brass mill. Michael attended the local Waterbury district school but left at 13 to work in one of the brass mills' spoon-making departments.
+== Models ==
+The most common base models to calculate the sphere of influence is the Hill sphere and the Laplace sphere, but updated and particularly more dynamic ones have been described.
+The general equation describing the radius of the sphere 
+  
+    
+      
+        
+          r
+          
+            SOI
+          
+        
+      
+    
+    {\displaystyle r_{\text{SOI}}}
+  
+ of a planet:
+
+  
+    
+      
+        
+          r
+          
+            SOI
+          
+        
+        ≈
+        a
+        
+          
+            (
+            
+              
+                m
+                M
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle r_{\text{SOI}}\approx a\left({\frac {m}{M}}\right)^{2/5}}
+  
+
+where
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ is the semimajor axis of the smaller object's (usually a planet's) orbit around the larger body (usually the Sun).
+
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ and 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ are the masses of the smaller and the larger object (usually a planet and the Sun), respectively.
+In the patched conic approximation, once an object leaves the planet's SOI, the primary/only gravitational influence is the Sun (until the object enters another body's SOI). Because the definition of rSOI relies on the presence of the Sun and a planet, the term is only applicable in a three-body or greater system and requires the mass of the primary body to be much greater than the mass of the secondary body. This changes the three-body problem into a restricted two-body problem.
 
 
-== Studies ==
-In 1868, at the age of 16, he entered the Séminaire de Saint-Hyacinthe in Saint-Hyacinthe, Quebec, Canada. He continued his studies at Our Lady of Angels Seminary, near Niagara Falls, New York (1871–1872) and at the Jesuits' St. Mary's College, in Montreal, Quebec. While in seminary, he and other seminarians formed a baseball team and McGivney was a "naturally talented ballplayer." He had to leave the seminary, returning home to help finish raising his siblings after his father's death in June 1873. McGivney later resumed his studies at St. Mary's Seminary, in Baltimore, Maryland; he was ordained a priest on December 22, 1877, by James Gibbons, Archbishop of Baltimore at the Cathedral of the National Shrine of the Assumption.
+== Table of selected SOI radii ==
+
+The table shows the values of the sphere of gravity of the bodies of the solar system in relation to the Sun (with the exception of the Moon which is reported relative to Earth):
+
+An important understanding to be drawn from this table is that "Sphere of Influence" here is "Primary". For example, though Jupiter is much larger in mass than say, Neptune, its Primary SOI is much smaller due to Jupiter's much closer proximity to the Sun.
 
 
-== Founding of the Knights of Columbus ==
-From his own experience, McGivney recognized the devastating effect on immigrant families of the father and wage earner's untimely death. Many Catholics were still struggling to assimilate into the American economy. On March 29, 1882, while an assistant pastor at Saint Mary's Church in New Haven, Connecticut, McGivney founded the Knights of Columbus, with a small group of parishioners, as a mutual aid society, to provide financial assistance, in the event of the men's deaths, to their widows and orphans. The organization developed as a fraternal society. McGivney was also known for his tireless work among his parishioners.McGivney spent seven years at St. Mary's, then became pastor of St. Thomas Church in Thomaston in 1884. He died from pneumonia at the age of 38 in Thomaston on the eve of the Assumption in 1890.The Knights of Columbus was among the first groups to recruit blood donors, with formal efforts dating to 1937 during the Great Depression. As of 2013, the order had more than 1.8 million member families and 15,000 councils. During the 2012 fraternal year, the order donated $167 million and 70 million man-hours to charity.By 2020, the order reached the 2 million member mark. During the 2022 fraternal year, the order donated $185 million and 49 million man-hours to charity.
+== Increased accuracy on the SOI ==
+The Sphere of influence is, in fact, not quite a sphere. The distance to the SOI depends on the angular distance 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ from the massive body. A more accurate formula is given by
+
+  
+    
+      
+        
+          r
+          
+            SOI
+          
+        
+        (
+        θ
+        )
+        ≈
+        a
+        
+          
+            (
+            
+              
+                m
+                M
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+        
+          
+            1
+            
+              
+                1
+                +
+                3
+                
+                  cos
+                  
+                    2
+                  
+                
+                ⁡
+                (
+                θ
+                )
+              
+              
+                10
+              
+            
+          
+        
+      
+    
+    {\displaystyle r_{\text{SOI}}(\theta )\approx a\left({\frac {m}{M}}\right)^{2/5}{\frac {1}{\sqrt[{10}]{1+3\cos ^{2}(\theta )}}}}
+  
+
+Averaging over all possible directions we get:
+
+  
+    
+      
+        
+          
+            
+              r
+              
+                SOI
+              
+            
+            ¯
+          
+        
+        =
+        0.9431
+        a
+        
+          
+            (
+            
+              
+                m
+                M
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle {\overline {r_{\text{SOI}}}}=0.9431a\left({\frac {m}{M}}\right)^{2/5}}
+  
 
 
-== Cause of beatification and canonization ==
-In 1996, the Roman Catholic Archdiocese of Hartford opened the cause for canonization, an investigation into McGivney's life with a view towards formal recognition by the Catholic Church of his sainthood. Gabriel O'Donnell is the postulator of McGivney's cause. He is also the director of the Fr. McGivney Guild, which now has 150,000 members supporting his cause.The diocesan investigation was closed in 2000, and the case was passed to the Congregation for the Causes of Saints in the Vatican City. On March 15, 2008, Pope Benedict XVI approved a decree recognizing McGivney's heroic virtue, thus declaring him as "Venerable."As of May 5, 2015, a miracle attributed to McGivney's intercession was under investigation at the Vatican. On May 27, 2020, the miracle attributed to the intercession of McGivney was approved by Congregation for the Causes of Saints and authorized by Pope Francis. The Miracle involved the healing of Michael "Mikey" Schachle in his mother's womb after being given a zero percent chance of survival by doctors at Vanderbilt Medical Center in 2015.On October 31, 2020, the beatification Mass of Michael McGivney was celebrated at the Cathedral of Saint Joseph in Hartford, Connecticut with Cardinal Joseph W. Tobin  presiding on the Pope's behalf.
+== Derivation ==
+Consider two point masses 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ at locations 
+  
+    
+      
+        
+          r
+          
+            A
+          
+        
+      
+    
+    {\displaystyle r_{A}}
+  
+ and 
+  
+    
+      
+        
+          r
+          
+            B
+          
+        
+      
+    
+    {\displaystyle r_{B}}
+  
+, with mass 
+  
+    
+      
+        
+          m
+          
+            A
+          
+        
+      
+    
+    {\displaystyle m_{A}}
+  
+ and 
+  
+    
+      
+        
+          m
+          
+            B
+          
+        
+      
+    
+    {\displaystyle m_{B}}
+  
+ respectively. The distance 
+  
+    
+      
+        R
+        =
+        
+          |
+        
+        
+          r
+          
+            B
+          
+        
+        −
+        
+          r
+          
+            A
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle R=|r_{B}-r_{A}|}
+  
+ separates the two objects. Given a massless third point 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ at location 
+  
+    
+      
+        
+          r
+          
+            C
+          
+        
+      
+    
+    {\displaystyle r_{C}}
+  
+, one can ask whether to use a frame centered on 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ or on 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ to analyse the dynamics of 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+.
+
+Consider a frame centered on 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+. The gravity of 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ is denoted as 
+  
+    
+      
+        
+          g
+          
+            B
+          
+        
+      
+    
+    {\displaystyle g_{B}}
+  
+ and will be treated as a perturbation to the dynamics of 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ due to the gravity 
+  
+    
+      
+        
+          g
+          
+            A
+          
+        
+      
+    
+    {\displaystyle g_{A}}
+  
+ of body 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+. Due to their gravitational interactions, point 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ is attracted to point 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ with acceleration 
+  
+    
+      
+        
+          a
+          
+            A
+          
+        
+        =
+        
+          
+            
+              G
+              
+                m
+                
+                  B
+                
+              
+            
+            
+              R
+              
+                3
+              
+            
+          
+        
+        (
+        
+          r
+          
+            B
+          
+        
+        −
+        
+          r
+          
+            A
+          
+        
+        )
+      
+    
+    {\displaystyle a_{A}={\frac {Gm_{B}}{R^{3}}}(r_{B}-r_{A})}
+  
+, this frame is therefore non-inertial. To quantify the effects of the perturbations in this frame, one should consider the ratio of the perturbations to the main body gravity i.e. 
+  
+    
+      
+        
+          χ
+          
+            A
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              
+                g
+                
+                  B
+                
+              
+              −
+              
+                a
+                
+                  A
+                
+              
+              
+                |
+              
+            
+            
+              
+                |
+              
+              
+                g
+                
+                  A
+                
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle \chi _{A}={\frac {|g_{B}-a_{A}|}{|g_{A}|}}}
+  
+. The perturbation 
+  
+    
+      
+        
+          g
+          
+            B
+          
+        
+        −
+        
+          a
+          
+            A
+          
+        
+      
+    
+    {\displaystyle g_{B}-a_{A}}
+  
+ is also known as the tidal forces due to body 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+. It is possible to construct the perturbation ratio 
+  
+    
+      
+        
+          χ
+          
+            B
+          
+        
+      
+    
+    {\displaystyle \chi _{B}}
+  
+ for the frame centered on 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ by interchanging 
+  
+    
+      
+        A
+        ↔
+        B
+      
+    
+    {\displaystyle A\leftrightarrow B}
+  
+.
+
+As 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ gets close to 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+, 
+  
+    
+      
+        
+          χ
+          
+            A
+          
+        
+        →
+        0
+      
+    
+    {\displaystyle \chi _{A}\rightarrow 0}
+  
+ and 
+  
+    
+      
+        
+          χ
+          
+            B
+          
+        
+        →
+        ∞
+      
+    
+    {\displaystyle \chi _{B}\rightarrow \infty }
+  
+, and vice versa. The frame to choose is the one that has the smallest perturbation ratio. The surface for which 
+  
+    
+      
+        
+          χ
+          
+            A
+          
+        
+        =
+        
+          χ
+          
+            B
+          
+        
+      
+    
+    {\displaystyle \chi _{A}=\chi _{B}}
+  
+ separates the two regions of influence. In general this region is rather complicated but in the case that one mass dominates the other, say 
+  
+    
+      
+        
+          m
+          
+            A
+          
+        
+        ≪
+        
+          m
+          
+            B
+          
+        
+      
+    
+    {\displaystyle m_{A}\ll m_{B}}
+  
+, it is possible to approximate the separating surface. In such a case this surface must be close to the mass 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+, denote  
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+ as the distance from 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ to the separating surface.
+
+The distance to the sphere of influence must thus satisfy 
+  
+    
+      
+        
+          
+            
+              m
+              
+                B
+              
+            
+            
+              m
+              
+                A
+              
+            
+          
+        
+        
+          
+            
+              r
+              
+                3
+              
+            
+            
+              R
+              
+                3
+              
+            
+          
+        
+        =
+        
+          
+            
+              m
+              
+                A
+              
+            
+            
+              m
+              
+                B
+              
+            
+          
+        
+        
+          
+            
+              R
+              
+                2
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {m_{B}}{m_{A}}}{\frac {r^{3}}{R^{3}}}={\frac {m_{A}}{m_{B}}}{\frac {R^{2}}{r^{2}}}}
+  
+ and so 
+  
+    
+      
+        r
+        =
+        R
+        
+          
+            (
+            
+              
+                
+                  m
+                  
+                    A
+                  
+                
+                
+                  m
+                  
+                    B
+                  
+                
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle r=R\left({\frac {m_{A}}{m_{B}}}\right)^{2/5}}
+  
+ is the radius of the sphere of influence of body 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
 
 
-== Legacy ==
-1989, the York Catholic District School Board in Ontario, Canada, founded a school named Father Michael McGivney Catholic Academy in his honor. It is located in Markham and currently has 1,400 students.
-Douglas Brinkley and Julie M. Fenster's biography of Fr. McGivney, Parish Priest: Father Michael McGivney and American Catholicism, was published by William Morrow and Company in 2006.
-The Catholic University of America renamed a prominent building on their campus as McGivney Hall.
-A stained-glass window depicting McGivney was dedicated September 12, 2009, at St. John Fisher Seminary in Stamford, Connecticut, by Bishop William E. Lori, of Bridgeport. The window was created by Rohl's Stained and Leaded Glass Studio of New Rochelle, New York.
-Father McGivney Catholic High School in Glen Carbon, Illinois
-			
-			
-		
-		
-			
-			
-		
-		
-			
-			
-		
+== Gravity well ==
+Gravity well (or funnel) is a metaphorical concept for a gravitational field of a mass, with the field being curved in a funnel-shaped well around the mass, illustrating the steep gravitational potential and its energy that needs to be accounted for in order to escape or enter the main part of a sphere of influence.
+An example for this is the strong gravitational field of the Sun and Mercury being deep within it. At perihelion Mercury goes even deeper into the Sun's gravity well, causing an anomalistic or perihelion apsidal precession which is more recognizable than with other planets due to Mercury being deep in the gravity well. This characteristic of Mercury's orbit was famously calculated by Albert Einstein through his formulation of gravity with the speed of light, and the corresponding general relativity theory, eventually being one of the first cases proving the theory.
 
 
 == See also ==
-List of beatified people
-Roman Catholicism in the United States#American Catholic Servants of God, Venerables, Beatified, and Saints
+Hill sphere
+Sphere of influence (black hole)
+Clearing the neighbourhood
 
 
 == References ==
 
 
-== Further reading ==
-Brinkley, Douglas; Julie M. Fenster (January 10, 2006). Parish Priest: Father Michael McGivney and American Catholicism. William Morrow Publishers. ISBN 978-0-06-077684-8.
+== General references ==
+Bate, Roger R.; Mueller, Donald D.; White, Jerry E. (1971). Fundamentals of astrodynamics. Dover books on astronomy. New York: Dover Publications. pp. 333–334. ISBN 978-0-486-60061-1.
+Sellers, Jerry Jon; Astore, William J.; Giffen, Robert B.; Larson, Wiley J. (2015). Marilyn (ed.). Understanding space: an introduction to astronautics (4nd ed.). New York: McGraw-Hill Companies. pp. 228, 738. ISBN 978-0-9904299-4-4.
+Danby, J. M. A. (1992). Fundamentals of celestial mechanics (2nd ed.). Richmond, Va., U.S.A: Willmann-Bell. pp. 352–353. ISBN 978-0-943396-20-0.
 
 
 == External links ==
- Media related to Michael J. McGivney at Wikimedia Commons
-The McGivney Guild
-Third Class Relic of Father Michael J. McGivney
-History of San Salvador Council One – New Haven, CT
-Knights of Columbus Museum-New Haven, CT
-Michael McGivney closer to sainthood
-Promulgation of Decrees of the Congregation for the Causes of Saints, 05.27.2020 (in Italian)
+Project Pluto

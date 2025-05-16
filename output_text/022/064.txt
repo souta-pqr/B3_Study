@@ -1,0 +1,3 @@
+Ring A is synthesized from L-proline through the nonribosomal peptide synthase (NRPS) pathway (figure 2), wherein the pyrrolidine ring of proline is oxidized twice through FAD+ to yield pyrrole ring A.
+
+Ring A is then expanded via the polyketide synthase pathway to incorporate L-serine into ring B (figure 3).

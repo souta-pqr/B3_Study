@@ -1,0 +1,2 @@
+=== Reaction of deprotonated pyrrole ===
+The NH proton in pyrroles is moderately acidic with a pKa of 17.5.

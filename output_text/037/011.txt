@@ -1,1 +1,25 @@
-Hall assembled an eighteen-piece backing group, "composed of six violins, two violas, two cellos, and a sax, plus a seven-piece rhythm section that included two percussionists, two bassists, two guitars, and a piano."
+== Specifications  (Be-550) ==
+Data from L'Année Aéronautique 1938–1939General characteristics
+Crew: Two
+Length: 7.31 m (24 ft 0 in)
+Wingspan: 11.51 m (37 ft 9 in)
+Height: 1.90 m (6 ft 3 in)
+Wing area: 14.0 m2 (151 sq ft)
+Empty weight: 330 kg (728 lb)
+Gross weight: 560 kg (1,235 lb)
+Powerplant: 1 × Walter Mikron II air-cooled 4-cylinder inverted inline engine, 45 kW (60 hp)
+Performance
+
+Maximum speed: 200 km/h (120 mph, 110 kn) at 100 m (330 ft)
+Cruise speed: 175 km/h (109 mph, 94 kn)
+Range: 780 km (480 mi, 420 nmi)
+Service ceiling: 5,200 m (17,100 ft)
+Time to altitude: 6 min 30 s to 1,000 m (3,300 ft)
+
+
+== Notes ==
+
+
+== References ==
+
+Hirschauer, L; Dollfus, Ch (1939).

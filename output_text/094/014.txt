@@ -1,0 +1,2 @@
+=== Diameter and albedo ===
+According to the survey carried out by the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Paradzhanov measures 5.779 kilometers in diameter and its surface has an albedo of 0.192.

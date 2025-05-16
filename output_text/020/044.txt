@@ -1,1 +1,0 @@
-Solid targets can be used for accelerator mass spectrometry, however; usually these are graphite, though CO2 and iron carbide can also be used.

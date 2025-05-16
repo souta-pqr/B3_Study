@@ -1,0 +1,2 @@
+== Biosynthesis ==
+The biosynthesis of pyrrole rings begins with aminolevulinic acid (ALA), which is synthesized from glycine and succinyl-CoA.

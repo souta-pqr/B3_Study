@@ -1,0 +1,3 @@
+=== Paal–Knorr pyrrole synthesis ===
+
+In the Paal–Knorr pyrrole synthesis, a 1,4-dicarbonyl compound reacts with ammonia or a primary amine to form a substituted pyrrole.

@@ -1,0 +1,9 @@
+それらの重力相互作用により、A点
+{\displaystyle A} は点 B {\displaystyle B} に引き付けられる。
+B} 加速 A で
+= G m
+B R
+3(r)
+B − r A
+) {\displaystyle a_{A}={\frac {Gm_{B}}{R^{3}}}(r_{B}-r_{A})} このフレームは
+従って 非慣習的です

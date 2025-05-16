@@ -1,2 +1,0 @@
-たとえば、ユーザーがリモートコントロールを押すと、3バイトのフレームが生成されます: ヘッダーバイト、 <User
-Control Pressed> opcode (0x44), and an operand byte identifying the button.

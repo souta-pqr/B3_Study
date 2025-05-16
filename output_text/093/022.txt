@@ -1,3 +1,0 @@
-=== Vacuum tube ===
-
-Random noise generators can be made from temperature-limited vacuum tube diodes.

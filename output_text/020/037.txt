@@ -1,2 +1,0 @@
-=== Isotopic enrichment ===
-Particularly for older samples, it may be useful to enrich the amount of 14C in the sample before testing.

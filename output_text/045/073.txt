@@ -1,1 +1,0 @@
-This section is signalled for bi-directional running on each line but this facility is usually only used during engineering working or when there is significant disruption to traffic in one direction.

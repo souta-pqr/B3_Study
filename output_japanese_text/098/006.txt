@@ -1,1 +1,8 @@
-ジュニアのウィリアム・ラントはジェーン・ディングリーと結婚し、その父はヴォルバートンのジョン・ディングリー卿だった。
+球 r の半径を記述する一般方程式
+惑星の SOI {\displaystyle r_{\text{SOI}}} :
+r SOI ≈ a
+(m M
+) 2 / 5
+{\displaystyle r_{\text{SOI}}\approx a\left({\frac {m}{M}}\right)^{2/5}} ここで
+a {\displaystyle a} は小さいオブジェクト (通常は a ) の最小軸です。
+惑星の) 大体(通常は太陽)を周回する軌道。

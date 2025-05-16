@@ -1,0 +1,2 @@
+=== deprotonated pyrrole の反応 === pyrroles の NH プロトンは pKa で中程度の酸性を持つ
+17.5.

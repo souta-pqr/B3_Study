@@ -1,1 +1,0 @@
-The generated output noise appears to switch between two or more distinct levels.

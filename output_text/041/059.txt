@@ -1,1 +1,0 @@
-The main library in A3 has 31000 holdings (textbooks, national and international journals, newsletter, magazine, dissertation/thesis/final papers).

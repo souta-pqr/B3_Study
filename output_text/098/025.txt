@@ -1,1 +1,51 @@
-Gabriel O'Donnell is the postulator of McGivney's cause.
+As 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ gets close to 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+, 
+  
+    
+      
+        
+          χ
+          
+            A
+          
+        
+        →
+        0
+      
+    
+    {\displaystyle \chi _{A}\rightarrow 0}
+  
+ and 
+  
+    
+      
+        
+          χ
+          
+            B
+          
+        
+        →
+        ∞
+      
+    
+    {\displaystyle \chi _{B}\rightarrow \infty }
+  
+, and vice versa.

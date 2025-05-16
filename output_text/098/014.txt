@@ -1,1 +1,10 @@
-McGivney later resumed his studies at St. Mary's Seminary, in Baltimore, Maryland; he was ordained a priest on December 22, 1877, by James Gibbons, Archbishop of Baltimore at the Cathedral of the National Shrine of the Assumption.
+The distance to the SOI depends on the angular distance 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ from the massive body.

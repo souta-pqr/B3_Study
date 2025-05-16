@@ -1,1 +1,56 @@
-McGivney was also known for his tireless work among his parishioners.McGivney spent seven years at St. Mary's, then became pastor of St. Thomas Church in Thomaston in 1884.
+The gravity of 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ is denoted as 
+  
+    
+      
+        
+          g
+          
+            B
+          
+        
+      
+    
+    {\displaystyle g_{B}}
+  
+ and will be treated as a perturbation to the dynamics of 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ due to the gravity 
+  
+    
+      
+        
+          g
+          
+            A
+          
+        
+      
+    
+    {\displaystyle g_{A}}
+  
+ of body 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+.

@@ -1,2 +1,62 @@
-== Early life ==
-He was born to Irish immigrant parents, Patrick and Mary (née Lynch) McGivney.
+The general equation describing the radius of the sphere 
+  
+    
+      
+        
+          r
+          
+            SOI
+          
+        
+      
+    
+    {\displaystyle r_{\text{SOI}}}
+  
+ of a planet:
+
+  
+    
+      
+        
+          r
+          
+            SOI
+          
+        
+        ≈
+        a
+        
+          
+            (
+            
+              
+                m
+                M
+              
+            
+            )
+          
+          
+            2
+            
+              /
+            
+            5
+          
+        
+      
+    
+    {\displaystyle r_{\text{SOI}}\approx a\left({\frac {m}{M}}\right)^{2/5}}
+  
+
+where
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ is the semimajor axis of the smaller object's (usually a planet's) orbit around the larger body (usually the Sun).

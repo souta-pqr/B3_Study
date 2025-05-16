@@ -1,75 +1,13 @@
-The pelvic floor or pelvic diaphragm is an anatomical location in the human body, which has an important role in urinary and anal continence, sexual function and support of the pelvic organs. The pelvic floor includes muscles, both skeletal and smooth, ligaments and fascia. and separates between the pelvic cavity from above, and the  perineum from below. It is formed by the levator ani muscle and coccygeus muscle, and associated connective tissue.
-The pelvic floor has two hiatuses (gaps): (anteriorly) the urogenital hiatus through which urethra and vagina pass, and (posteriorly) the rectal hiatus through which the anal canal passes.
+The MSCI Hong Kong Index is a capitalization-weighted stock index designed to measure the performance of the large and mid cap segments of the Hong Kong market. It has 48 constituents, and covers approximately 85% of the free float-adjusted market capitalization of Hong Kong equity stocks. The index is often used in index based passive ETFs that invest in the Hong Kong stock exchange such as HSBC MSCI Hong Kong ETF.
+It is calculated by MSCI.
 
 
-== Structure ==
-
-
-=== Definition ===
-Some sources do not consider "pelvic floor" and "pelvic diaphragm" to be identical, with the "diaphragm" consisting of only the levator ani and coccygeus, while the "floor" also includes the perineal membrane and deep perineal pouch. However, other sources include the fascia as part of the diaphragm. In practice, the two terms are often used interchangeably.
-
-
-=== Relations ===
-The pelvic cavity of the true pelvis has the pelvic floor as its inferior boundary (and the pelvic brim as its superior boundary). The perineum has the pelvic floor as its superior boundary.
-Posteriorly, the pelvic floor extends into the anal triangle.
-
-
-== Function ==
-It is important in providing support for pelvic viscera (organs), e.g. the bladder, intestines, the uterus (in females), and in maintenance of continence as part of the urinary and anal sphincters. It facilitates birth by resisting the descent of the presenting part, causing the fetus to rotate forwards to navigate through the pelvic girdle. It helps maintain optimal intra-abdominal pressure.
-
-
-== Clinical significance ==
-
-The pelvic floor is subject to clinically relevant changes that can result in:
-
-Anterior vaginal wall prolapse
-Cystocele (bladder into vagina)
-Urethrocele (urethra into vagina)
-Cystourethrocele (both bladder and urethra)
-Posterior vaginal wall prolapse
-Enterocele (small intestine into vagina)
-Rectocele (rectum into vagina)
-Apical vaginal prolapse
-Uterine prolapse (uterus into vagina)
-Vaginal vault prolapse (roof of vagina) - after hysterectomy
-Pelvic floor dysfunction can result after treatment for gynecological cancers.
-Damage to the pelvic floor not only contributes to urinary incontinence but can lead to pelvic organ prolapse.  Pelvic organ prolapse occurs in women when pelvic organs (e.g. the vagina, bladder, rectum, or uterus) protrude into or outside of the vagina.  The causes of pelvic organ prolapse are not unlike those that also contribute to urinary incontinence.  These include inappropriate (asymmetrical, excessive, insufficient) muscle tone and asymmetries caused by trauma to the pelvis.  Age, pregnancy, family history, and hormonal status all contribute to the development of pelvic organ prolapse.  The vagina is suspended by attachments to the perineum, pelvic side wall and sacrum via attachments that include collagen, elastin, and smooth muscle.  Surgery can be performed to repair pelvic floor muscles.  The pelvic floor muscles can be strengthened with Kegel exercises. 
-Disorders of the posterior pelvic floor include rectal prolapse, rectocele, perineal hernia, and a number of functional disorders including anismus. Constipation due to any of these disorders is called "functional constipation" and is identifiable by clinical diagnostic criteria.
-
-Pelvic floor exercise (PFE), also known as Kegel exercises, may improve the tone and function of the pelvic floor muscles, which is of particular benefit for women (and less commonly men) who experience stress urinary incontinence. However, compliance with PFE programs often is poor, PFE generally is ineffective for urinary incontinence unless performed with biofeedback and trained supervision, and in severe cases it may have no benefit. Pelvic floor muscle tone may be estimated using a perineometer, which measures the pressure within the vagina. Medication may also be used to improve continence. In severe cases, surgery may be used to repair or even to reconstruct the pelvic floor. One surgery which interrupts pelvic floor musculature in males is a radical prostatectomy. With the removal of the prostate, many males experience urinary incontinence post operation; pelvic floor exercises may be used to counteract this pre and post operation. Pre-operative pelvic floor exercising significantly decreases the prevalence of urinary incontinence post radical prostatectomy.  Prostatitis and prostatectomies are two contributors to erectile dysfunction; following a radical prostatectomy studies show that erectile dysfunction is improved by pelvic floor muscle training under the supervision of physical therapists certified in pelvic floor rehabilitation .
-Perineology or pelviperineology is a specialty dealing with the functional troubles of the three axes (urological, gynecological and coloproctological) of the pelvic floor.
-
-
-== Additional images ==
-
-		
-			
-			
-		
-		
-			
-			
-		
-		
-			
-			
-		
-
-
-== See also ==
-Coccyx (tailbone)
-Female genital prolapse
-Pelvic floor dysfunction
-Perineology
-Perineal hernia
-Pubococcygeus muscle
-Vaginal support structures
-Vesicovaginal fistula
+== Constituents ==
+As of April 2018, the ten largest companies constituting the index included AIA group, Hong Kong exchange and clearing, CK Hutchison holdings, Sun Hung Kai properties, CK Asset holdings, Galaxy entertainment group, Link REIT, Hang Seng bank, BOC Hong Kong holdings and Hong Kong China gas, accounting for a market capitalization of US$ 320 billion.
 
 
 == References ==
- This article incorporates text in the public domain from page 420 of the 20th edition of Gray's Anatomy (1918)
 
 
 == External links ==
-Overview at nih.gov
+MSCI Official website

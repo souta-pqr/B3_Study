@@ -1,1 +1,0 @@
-Some commercial microwave noise generators use avalanche diodes to create a large excess noise figure that can be turned off and on.

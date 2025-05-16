@@ -1,2 +1,33 @@
-Catalog with descriptions of radios
-Homepage of motorola Astro Trunked.
+The following interior structures are possible:
+
+Hinged frame
+Rigid frame
+Braced frame and Shear-walled frame
+Outrigger structures (supporting overhangs)
+The following exterior structures are possible:
+
+Buttresses
+Diagrid
+Exoskeleton
+Space truss
+Superframe
+Tube (structure)
+
+
+== See also ==
+Base isolation
+Body-on-frame (automotive)
+Buttressed core
+Double wishbone suspension (automotive)
+MacPherson strut (automotive)
+Monocoque (automotive)
+Space frame
+Staggered truss system
+Superleggera (automotive)
+
+
+== References ==
+
+
+== External links ==
+List of structural framing systems on Phorio Standards

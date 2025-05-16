@@ -1,1 +1,50 @@
-During the 2012 fraternal year, the order donated $167 million and 70 million man-hours to charity.By 2020, the order reached the 2 million member mark.
+χ
+          
+            A
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              
+                g
+                
+                  B
+                
+              
+              −
+              
+                a
+                
+                  A
+                
+              
+              
+                |
+              
+            
+            
+              
+                |
+              
+              
+                g
+                
+                  A
+                
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle \chi _{A}={\frac {|g_{B}-a_{A}|}{|g_{A}|}}}
+  
+.

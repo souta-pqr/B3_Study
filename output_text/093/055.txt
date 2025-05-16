@@ -1,1 +1,0 @@
-The impedance of the diode is different during the two states, so an output attenuator is used.

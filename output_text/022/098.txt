@@ -1,0 +1,1 @@
+Pyrroles can react with carbenes, such as dichlorocarbene, in a [2+1]-cycloaddition.

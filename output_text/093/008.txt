@@ -1,2 +1,0 @@
-== Noise source ==
-Some noise figure meters need a calibrated broadband noise source—a noise generator.

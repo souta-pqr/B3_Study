@@ -1,3 +1,0 @@
-=== Shot noise ===
-Noise (electronics)#Shot noise
-Electrons crossing a gap make discrete arrivals.

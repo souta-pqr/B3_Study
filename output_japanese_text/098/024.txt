@@ -1,0 +1,4 @@
+ perturbation ratio χ を構築することが可能です。
+B {\displaystyle \chi _{B}} を中心としたフレーム
+B {\displaystyle B} は A ↔ を交換することによって、
+B {\displaystyle A\leftrightarrow B} 。

@@ -1,2 +1,0 @@
-== Sample sizes ==
-How much sample material is needed to perform testing depends on what is being tested, and also which of the two testing technologies is being used: detectors that record radioactivity, known as beta counters, or accelerator mass spectrometers (AMS).

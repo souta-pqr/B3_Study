@@ -1,1 +1,0 @@
-For high frequency measurements, the noise source will be embedded in a transmission line.

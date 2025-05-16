@@ -1,1 +1,0 @@
-The Zener effect (or internal field emission effect) dominates below 7 volts.

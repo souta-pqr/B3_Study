@@ -1,16 +1,45 @@
-Heidi Earp (born 20 December 1980) is a female English former competitive swimmer who represented Great Britain in the Olympic Games and the European championships, and for England in the Commonwealth Games.
+The term structural system or structural frame in structural engineering refers to the load-resisting sub-system of a building or object. The structural system transfers loads through interconnected elements or members.
+Commonly used structures can be classified into five major categories, depending on the type of primary stress that may arise in the members of the structures under major design loads. However any two or more of the basic structural types described in the following may be combined in a single structure, such as a building or a bridge in order to meet the structure's functional requirements.
+
+Tensile structures: Members of tensile structures are subject to pure tension under the action of external loads. Because the tensile stress is uniformly distributed over the cross-sectional area of members, the material of such a structure is utilized in the most efficient manner.
+Compressive structures: Compression structures develop mainly compressive stresses under the action of axial loads. Because compressive structures are susceptible to buckling or instability, the possibility of these failures should be considered in their design. If necessary, adequate bracing must be provided to avoid such failures.
+Trusses: Trusses are composed of straight members connected at their ends by hinged connections to form a stable configuration. Because of their light weight and high strength, they are among the most commonly used types of structure.
+Shear structures: These are structures such as reinforced concrete or wooden shear walls, which are used in multistory buildings to reduce lateral movements due to wind loads and earthquake excitations. Shear structures develop mainly in-plane shear with relatively small bending stresses under the action of external loads.
+Bending structures: Bending structures develop mainly bending stresses under the action of external loads. The shear stresses associated with the changes in bending moments may also be significant, and should be considered in their design.
 
 
-== Swimming career ==
-Earp specialized in breaststroke events. She swam for the British squad at the 2000 Summer Olympics, and later earned two bronze medals at the European Short Course Championships (2000 and 2001). During her sporting career, she trained for the Nova Centurion Swim Club in Nottingham under her longtime coach and mentor Bill Furniss.
-Earp competed only in two swimming events at the 2000 Summer Olympics in Sydney, Australia. She broke one of Britain's oldest records from the Olympic Trials in Sheffield, finishing in a FINA A-standard of 1:09.92. On the second day of the Games, Earp placed twentieth in the 100 m breaststroke. Swimming in heat five, she came from behind the pack to edge out Poland's Alicja Pęczak on the final stretch and pick up a seventh seed in a time of 1:10.56, but missed the semifinals by almost a tenth of a second (0.10). Earp also teamed up with Katy Sexton, Sue Rolph, and Karen Pickering in the 4 × 100 m medley relay. Swimming the breaststroke leg, Earp recorded a split of 1:10.25, but the Brits settled only for seventh place in the final with a record-breaking time of 4:07.61.
-Shortly after the Games, Earp, along with Sarah Price, Alison Sheppard, and non-Olympian Rosalind Brett, shattered a British record of 1:51.20 to take home the bronze in the 4×50 m medley relay at the 2000 European Short Course Swimming Championships in Valencia, Spain. The following year, she added a second bronze to her career hardware in the 100 m breaststroke from the 2001 European Short Course Swimming Championships in Antwerp, Belgium.
-At the 2002 Commonwealth Games in Manchester, England, Earp failed to collect a single medal for the English team in the 200 m breaststroke, finishing off the podium at 2:30.45. In 2003, Earp announced her retirement from swimming to pursue a further career in medicine.
-At the ASA National British Championships she won the 100 metres breaststroke title in 2000  and the 200 metres breaststroke title in 2000.
+== High-rise buildings ==
+The structural system of a high-rise building is designed to cope with vertical gravity loads as well as lateral loads caused by wind or seismic activity. The structural system consists only of the members designed to carry the loads, and all other members are referred to as non-structural.
+A classification for the structural system of a high-rise was introduced in 1969 by Fazlur Khan and was extended to incorporate interior and exterior structures. The primary lateral load-resisting system defines if a structural system is an interior or exterior one. The following interior structures are possible:
+
+Hinged frame
+Rigid frame
+Braced frame and Shear-walled frame
+Outrigger structures (supporting overhangs)
+The following exterior structures are possible:
+
+Buttresses
+Diagrid
+Exoskeleton
+Space truss
+Superframe
+Tube (structure)
+
+
+== See also ==
+Base isolation
+Body-on-frame (automotive)
+Buttressed core
+Double wishbone suspension (automotive)
+MacPherson strut (automotive)
+Monocoque (automotive)
+Space frame
+Staggered truss system
+Superleggera (automotive)
 
 
 == References ==
 
 
 == External links ==
-Manchester 2002 Profile
+List of structural framing systems on Phorio Standards

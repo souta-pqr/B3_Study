@@ -1,1 +1,0 @@
-Loads were to be connected in parallel, not in series as had been the general practice until 1885.

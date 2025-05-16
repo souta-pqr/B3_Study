@@ -1,9 +1,1 @@
-== Digital Voice Types ==
-ASTRO - proprietary VSELP vocoder implementation and IMBE vocoder implementation for APCO-25 Common Air Interface
-
-
-== References ==
-
-
-== External links ==
-Homepage of motorola solutions radios.
+The primary lateral load-resisting system defines if a structural system is an interior or exterior one.

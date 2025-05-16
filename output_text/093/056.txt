@@ -1,1 +1,0 @@
-The attenuator reduces the noise source output, but it minimizes mismatch loss.

@@ -1,0 +1,2 @@
+=== Hantzsch pyrrole synthesis === Hantzsch pyrrole synthesis は β-ketoesters の反応です。
+(1)アンモニア(またはプライマリアミン)とα-ハロケトン (2)を用いて代替ピロール (3)を与える。

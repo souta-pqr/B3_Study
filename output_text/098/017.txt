@@ -1,1 +1,51 @@
-On March 29, 1882, while an assistant pastor at Saint Mary's Church in New Haven, Connecticut, McGivney founded the Knights of Columbus, with a small group of parishioners, as a mutual aid society, to provide financial assistance, in the event of the men's deaths, to their widows and orphans.
+Given a massless third point 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ at location 
+  
+    
+      
+        
+          r
+          
+            C
+          
+        
+      
+    
+    {\displaystyle r_{C}}
+  
+, one can ask whether to use a frame centered on 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ or on 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ to analyse the dynamics of 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+.

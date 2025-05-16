@@ -1,0 +1,3 @@
+=== Hantzsch pyrrole synthesis ===
+
+The Hantzsch pyrrole synthesis is the reaction of β-ketoesters (1) with ammonia (or primary amines) and α-haloketones (2) to give substituted pyrroles (3).

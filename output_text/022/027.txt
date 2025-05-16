@@ -1,0 +1,2 @@
+== Synthesis ==
+Pyrrole is prepared industrially by treatment of furan with ammonia in the presence of solid acid catalysts, like SiO2 and Al2O3.

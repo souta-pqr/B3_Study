@@ -1,0 +1,5 @@
+C {\displaystyle C} が接近すると
+A {\displaystyle A} , χ
+A → 0 {\displaystyle \chi _{A}\rightarrow 0}
+そして χ B →
+∞ {\displaystyle \chi _{B}\rightarrow \infty } と逆である。

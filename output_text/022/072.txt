@@ -1,0 +1,2 @@
+=== Reaction of pyrrole with electrophiles ===
+Pyrroles generally react with electrophiles at the α position (C2 or C5), due to the highest degree of stability of the protonated intermediate.

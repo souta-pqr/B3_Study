@@ -1,7 +1,35 @@
-The 1973 McNeese State Cowboys football team was an American football team that represented McNeese State University as a member of the Southland Conference (Southland) during the 1973 NCAA Division II football season. In their fourth year under head coach Jack Doland, the team compiled an overall record of 7–3 with a mark of 2–3 in conference play, and finished tied for fourth in the Southland.
+3963 Paradzhanov, provisional designation 1969 TP2, is a Nysian asteroid from the inner regions of the asteroid belt, approximately 6 kilometers in diameter. It was discovered on 8 October 1969, by astronomer Lyudmila Chernykh at the Crimean Astrophysical Observatory in Nauchnyj, on the Crimean peninsula. The asteroid was named after Soviet film director Sergei Parajanov (Sargis Paradzhanov) in 1996.
 
 
-== Schedule ==
+== Orbit and classification ==
+Paradzhanov is a member of the Nysa family (405), the asteroid belt's largest asteroid family. The low-inclination family is located in the inner main-belt and named after 44 Nysa. It is better described as the "Nysa-Polana complex" because it consists of two albedo-groups and at least three collisional families: Nysa, Polana, Eulalia, named after 142 Polana and 495 Eulalia. These are difficult to distinguish as they are dynamically overlapping with different but varying albedos.: 23  Paradzhanov has a relatively high albedo (see below) which places it into the stony Nysian subgroup of the "Nysa-Polana complex".
+It orbits the Sun at a distance of 2.0–2.9 AU once every 3 years and 10 months (1,392 days). Its orbit has an eccentricity of 0.20 and an inclination of 3° with respect to the ecliptic. The body's observation arc begins with its identification as 1979 HS3 at the discovering observatory in Nauchnyj in March 1979, almost 10 years after its official discovery observation.
+
+
+== Physical characteristics ==
+
+
+=== Rotation period ===
+As of 2017, no rotational lightcurve of Paradzhanov has been obtained from photometric observations. The asteroid's rotation period, poles and shape remain unknown.
+
+
+=== Diameter and albedo ===
+According to the survey carried out by the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Paradzhanov measures 5.779 kilometers in diameter and its surface has an albedo of 0.192.
+
+
+== Naming ==
+This minor planet was named in memory of Georgian–Soviet film director Sergei Parajanov (1924–1990) (Sargis Paradzhanov). In 1965, he became internationally acknowledged with his feature film Shadows of Forgotten Ancestors, but also a target of the Soviet regime. The official naming citation was published by the Minor Planet Center on 3 May 1996 (M.P.C. 27126).
 
 
 == References ==
+
+
+== External links ==
+Sergei Parajanov, website
+Asteroid Lightcurve Database (LCDB), query form (info Archived 16 December 2017 at the Wayback Machine)
+Dictionary of Minor Planet Names, Google books
+Asteroids and comets rotation curves, CdR – Observatoire de Genève, Raoul Behrend
+Discovery Circumstances: Numbered Minor Planets (1)-(5000) – Minor Planet Center
+3963 Paradzhanov at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+3963 Paradzhanov at the JPL Small-Body Database

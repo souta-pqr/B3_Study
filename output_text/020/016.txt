@@ -1,1 +1,0 @@
-It is possible to detect if there has been any degradation of the sample by comparing the relative volume of each amino acid with the known profile for bone.

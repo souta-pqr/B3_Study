@@ -1,30 +1,16 @@
-Reactive nitrogen species (RNS) are a family of antimicrobial molecules derived from nitric oxide (•NO) and superoxide (O2•−) produced via the enzymatic activity of inducible nitric oxide synthase 2 (NOS2) and NADPH oxidase respectively. NOS2 is expressed primarily in macrophages after induction by cytokines and microbial products, notably interferon-gamma (IFN-γ) and lipopolysaccharide (LPS).Reactive nitrogen species act together with reactive oxygen species (ROS) to damage cells, causing nitrosative stress. Therefore, these two species are often collectively referred to as ROS/RNS.
-Reactive nitrogen species are also continuously produced in plants as by-products of aerobic metabolism or in response to stress.
+The 2011 Gabonese protests is mass protests and violent protests against the government of Ali Bongo and his cabinet in Gabon, inspired by the Tunisian Revolution and 2011 Egyptian Revolution, mainly the Arab Spring, will calls for pan-Sub-Saharan reforms and calling for the government to step down.
 
 
-== Types ==
-RNS are produced in animals starting with the reaction of nitric oxide (•NO) with superoxide (O2•−) to form  peroxynitrite (ONOO−):
-•NO (nitric oxide) + O2•− (superoxide) → ONOO− (peroxynitrite)Superoxide anion (O2−) is a reactive oxygen species that reacts quickly with nitric oxide (NO) in the vasculature. The reaction produces peroxynitrite and depletes the bioactivity of NO. This is important because NO is a key mediator in many important vascular functions including regulation of smooth muscle tone and blood pressure, platelet activation, and vascular cell signaling.Peroxynitrite itself is a highly reactive species which can directly react with various biological targets and components of the cell including lipids, thiols, amino acid residues, DNA bases, and low-molecular weight antioxidants. However, these reactions happen at a relatively slow rate. This slow reaction rate allows it to react more selectively throughout the cell. Peroxynitrite is able to get across cell membranes to some extent through anion channels. Additionally peroxynitrite can react with other molecules to form additional types of RNS including nitrogen dioxide (•NO2) and dinitrogen trioxide (N2O3) as well as other types of chemically reactive free radicals.  Important reactions involving RNS include:
-
-ONOO− + H+ → ONOOH (peroxynitrous acid) → •NO2 (nitrogen dioxide) + •OH (hydroxyl radical)
-ONOO− + CO2 (carbon dioxide) → ONOOCO2− (nitrosoperoxycarbonate)
-ONOOCO2− → •NO2 (nitrogen dioxide) + O=C(O•)O− (carbonate radical)
-•NO + •NO2 ⇌ N2O3 (dinitrogen trioxide)
+== Background ==
+The wave and period of massive anti-government protests and street demonstrations started as an opposition rally and unprecedented announcement of the instatement of opposition activist Andre Mba Obame as president; supporters came onto the streets in support of the plan. The protests was also dispersed and met with extreme force, like Tear gas and Rubber bullets.
 
 
-=== Biological targets ===
-Peroxynitrite can react directly with proteins that contain transition metal centers. Therefore, it can modify proteins such as hemoglobin, myoglobin, and cytochrome c by oxidizing ferrous heme into its corresponding ferric forms. Peroxynitrite may also be able to change protein structure through the reaction with various amino acids in the peptide chain. The most common reaction with amino acids is cysteine oxidation. Another reaction is tyrosine nitration; however peroxynitrite does not react directly with tyrosine. Tyrosine reacts with other RNS that are produced by peroxynitrite. All of these reactions affect protein structure and function and thus have the potential to cause changes in the catalytic activity of enzymes, altered cytoskeletal organization, and impaired cell signal transduction.
+== Protests ==
+The protesters was marching first in Libreville, demonstrating against the federal government of Ali Bongo and calling on him to resign. The protest movement gained momentum, gaining attention on international outlets. The protests erupted in support of the opposition and solidarity marches was scheduled nationwide, despite a crackdown on sustained nationwide anti-government rallies. As soon as the protests began, the security forces responded to the anti-government street protests by Tear gas. After a tide of protests, the demonstrations was quelled by the police and opposition was banned. No concessions was made and the demands with protesters was suppressed.
 
 
 == See also ==
-Reactive oxygen species
-Reactive sulfur species
-Reactive carbonyl species
+2016 Gabonese protests
 
 
 == References ==
-
-
-== External links ==
-Short article on RN chemistry
-Article on global RN trends

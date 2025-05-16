@@ -1,2 +1,0 @@
-===== Invention of the Phase Converter =====
-In 1918, Kandó invented and developed the rotary phase converter, enabling electric locomotives to use three-phase motors whilst supplied via a single overhead wire, carrying the simple industrial frequency (50 Hz) single phase AC of the high-voltage national networks.

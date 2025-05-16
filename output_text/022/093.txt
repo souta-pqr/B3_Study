@@ -1,0 +1,2 @@
+=== Reductions ===
+Pyrroles can undergo reductions to pyrrolidines and to pyrrolines.

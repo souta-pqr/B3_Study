@@ -1,33 +1,51 @@
-"Having a Party" is a song by American singer-songwriter Sam Cooke, released on May 8, 1962, by RCA Victor. Produced by Hugo & Luigi and arranged and conducted by René Hall, the song was the A-side to "Bring It On Home to Me".  The song peaked at number four on Billboard's Hot R&B Sides chart, and also charted at number 17 on the Billboard Hot 100.
+The Beneš-Mráz Bibi was a 1930s Czechoslovak two-seat touring aircraft.
 
 
-== Background ==
-"Having a Party", like its B-side, "Bring It On Home to Me", was written while Cooke was on tour for Henry Wynn. While in Atlanta, Cooke called co-producer Luigi Creatore and pitched both numbers; he was sold and booked an immediate recording session in Los Angeles scheduled for two weeks later. The session's mood "matched the title" of the song, according to biographer Peter Guralnick, as many friends had been invited. "It was a very happy session," recalled engineer Al Schmitt. "Everybody was just having a ball. We were getting people out there [on the floor], and some of the outtakes were hilarious, there was so much ad lib that went on." "Having a Party" was recorded first, as it was the "lighter" of the two songs, and it was completed in twelve takes. Hall assembled an eighteen-piece backing group, "composed of six violins, two violas, two cellos, and a sax, plus a seven-piece rhythm section that included two percussionists, two bassists, two guitars, and a piano." Lou Rawls, former Keen assistant A&R rep Fred Smith and J.W. Alexander join in to provide backing vocals and handclaps to the chorus.
-"Having a Party" became the closing song of Cooke's live performances from the time it was recorded to his death. These concerts would typically end with all other acts joining Cooke and company onstage, throwing confetti while Cooke worked the audience to "keep on having that party" after the show is over. A version can be heard on Cooke's posthumous live recording, Live at the Harlem Square Club, 1963.
+== Design and development ==
+The Bibi was designed and manufactured by Beneš-Mráz, developed from the Beta-Minor design. The Bibi was a lighter, smaller aircraft in which the seats were side-by-side instead of in tandem, and the cockpits were fully enclosed, retaining the Beta-Minor's cantilever low-wing cantilever monoplane layout, with fixed tailwheel undercarriage. Development of the Bibi began with the Be-501 two-seat cabin tourer, and culminated with the Be-555 Super Bibi.
 
 
-== Personnel ==
-"Having a Party" was recorded on April 26, 1962, at RCA Studio 1 in Hollywood, California. The engineer present was Al Schmitt, and the session was conducted and arranged by René Hall. The musicians also recorded "Bring It On Home to Me" the same day. Credits adapted from the liner notes to the 2003 compilation Portrait of a Legend: 1951–1964.
+== Operational history ==
+One example of the Be-550 Bibi (OK-BET) was imported into the United Kingdom, stored during World War II, then registered as G-AGSR until a fatal crash in 1951.
 
 
-== Rod Stewart version ==
-In 1993, Rod Stewart covered the song during his session of MTV Unplugged. It was included on the live album Unplugged...and Seated and released as a single. It charted in the US in early 1994 reaching the top 40 on the Billboard Hot 100 peaking at 36, and in the top 10 of the AC chart peaking at 6.
+== Variants ==
+Be-501 Bibi
+Single seat, initial development aircraft for the Bibi cabin tourer.
+Be-502 Bibi
+Single seat development prototype for the Bibi series.
+Be-550 Bibi
+Initial production version introduced in 1936, with at least six built, including single exports to Egypt and the UK.
+Be-555 Super Bibi
+The final iteration of the Bibi with many improvements. Production continued after the start of WWII, with at least ten built.
 
 
-== Other versions ==
-The "Crescent Street Stompers" version reached #43 in Canada in 1976. Luther Vandross covered the song during the bridge on his 1982 hit "Bad Boy/Having a Party"; however, only the chorus is sung in this version, and new words were added to it (e.g. the closing line "you can't go"). A cover by Tina Turner is a B-Side of the 1986 release of her single "Two People". The Pointer Sisters covered it on their fourth album, Having a Party (1977). Southside Johnny and the Asbury Jukes covered it on their live album Reach Up and Touch the Sky (1981), and in 2020 still include it in their setlist. Bruce Springsteen covered it in a medley with The E Street Shuffle on the live album Hammersmith Odeon, London '75 (which was released in 2006). Springsteen and Southside Johnny have also been known to play the cover whenever they appear on stage together. Nathaniel Rateliff has used a version of the song as his closing number at live shows, and it is included in the 2017 release Live at Red Rocks.
+== Specifications  (Be-550) ==
+Data from L'Année Aéronautique 1938–1939General characteristics
+Crew: Two
+Length: 7.31 m (24 ft 0 in)
+Wingspan: 11.51 m (37 ft 9 in)
+Height: 1.90 m (6 ft 3 in)
+Wing area: 14.0 m2 (151 sq ft)
+Empty weight: 330 kg (728 lb)
+Gross weight: 560 kg (1,235 lb)
+Powerplant: 1 × Walter Mikron II air-cooled 4-cylinder inverted inline engine, 45 kW (60 hp)
+Performance
+
+Maximum speed: 200 km/h (120 mph, 110 kn) at 100 m (330 ft)
+Cruise speed: 175 km/h (109 mph, 94 kn)
+Range: 780 km (480 mi, 420 nmi)
+Service ceiling: 5,200 m (17,100 ft)
+Time to altitude: 6 min 30 s to 1,000 m (3,300 ft)
 
 
-== Charts and certifications ==
-
-
-=== Weekly charts ===
-
-
-==== Sam Cooke version ====
-
-
-==== Rod Stewart version ====
+== Notes ==
 
 
 == References ==
+
+Hirschauer, L; Dollfus, Ch (1939). L'Année Aéronautique 1938–1939 (in French). Paris: Dunod. Retrieved 11 December 2019 – via BnF Gallica.
+Jackson, A.J. (1974). British Civil Aircraft since 1919. Putnam ISBN 0-370-10014-X
+Němeček, V. (1968). Československá letadla. Praha: Naše Vojsko.
+Taylor, Michael J. H. (1989). Jane's Encyclopedia of Aviation. London: Studio Editions. p. 152.
+World Aircraft Information Files. London: Bright Star Publishing. pp. File 890 Sheet 25.
